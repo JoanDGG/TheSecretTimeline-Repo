@@ -2,12 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TimeMachine : MonoBehaviour
 {
 
-    public Text Date;
     public GameObject Phone;
+    public GameObject apps;
+    public GameObject Notes;
+    public GameObject TimePeriods;
     private bool PhoneShowing;
 
     // Start is called before the first frame update
@@ -32,20 +35,29 @@ public class TimeMachine : MonoBehaviour
         }
     }
 
-    public void Key(int value)
+    public void TimeTravel(int value)
     {
-        if(value == -1)
+        print("Traveling...");
+        SceneManager.LoadScene(value);
+    }
+
+    public void Apps(int value)
+    {
+        switch (value)
         {
-            Date.text = "";
-        }
-        else if(value == 10)
-        {
-            print("Traveling to " + Date.text + "...");
-            //Scene transition
-        }
-        else
-        {
-            Date.text += value.ToString();
+            case 0: //Clock
+                apps.SetActive(false);
+                TimePeriods.SetActive(true);
+                break;
+            case 1: //Notes
+                apps.SetActive(false);
+                Notes.SetActive(true);
+                break;
+            case 2: //Back to Apps
+                apps.SetActive(true);
+                TimePeriods.SetActive(false);
+                Notes.SetActive(false);
+                break;
         }
     }
 }
