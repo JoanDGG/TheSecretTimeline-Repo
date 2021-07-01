@@ -14,16 +14,23 @@ public class NPCDialogue : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Color tmp = sprRenderer.color;
-        tmp.a = 0.5f;
-        sprRenderer.color = tmp;
-        Talk.SetActive(true);
+        if(other.CompareTag("Player"))
+        {
+            Color tmp = sprRenderer.color;
+            tmp.a = 0.5f;
+            sprRenderer.color = tmp;
+            Talk.SetActive(true);
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        Color tmp = sprRenderer.color;
-        tmp.a = 1;
-        sprRenderer.color = tmp;
+        if (other.CompareTag("Player"))
+        {
+            Color tmp = sprRenderer.color;
+            tmp.a = 1;
+            sprRenderer.color = tmp;
+            Talk.SetActive(false);
+        }
     }
 }
