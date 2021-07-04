@@ -5,8 +5,9 @@ using UnityEngine;
 public class NPCDialogue : MonoBehaviour
 {
     private SpriteRenderer sprRenderer;
+    public Dialogue dialogue;
     public GameObject Talk;
-
+            
     void Start()
     {
         sprRenderer = GetComponent<SpriteRenderer>();
@@ -20,6 +21,7 @@ public class NPCDialogue : MonoBehaviour
             tmp.a = 0.5f;
             sprRenderer.color = tmp;
             Talk.SetActive(true);
+            Talk.GetComponent<DialogueTrigger>().dialogue = dialogue;
         }
     }
 

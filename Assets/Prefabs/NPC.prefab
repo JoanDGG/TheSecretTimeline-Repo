@@ -129,4 +129,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1453f3d9da643634686364d97b5376ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogue:
+    name: Villager1
+    sentences:
+    - Hello stranger!
+    - I'm here to help :)
   Talk: {fileID: 0}
