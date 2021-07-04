@@ -10,19 +10,54 @@ public class EnemyFollow : MonoBehaviour
     private bool Seen;
     private float movHorizontal;
     private float movVertical;
+    private float OriginX;
+    private float OriginY;
 
     // Start is called before the first frame update
     void Start()
     {
         Enemy = this.transform.parent.gameObject;
         rigidbody = Enemy.GetComponent<Rigidbody2D>();
+        OriginX = Enemy.transform.position.x;
+        OriginY = Enemy.transform.position.y;
         Seen = false;
+        print(OriginX);
+        print(OriginY);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        float distanceX = Mathf.Abs(Enemy.transform.position.x - OriginX);
+        float distanceY = Mathf.Abs(Enemy.transform.position.y - OriginY);
+        if (!Seen && (distanceX > 0.1f || distanceY > 0.1f))
+        {
+            if (OriginX > Enemy.transform.position.x)
+            {
+                movHorizontal = 1;
+                //print("Moving Right...");
+            }
+            else if (OriginX < Enemy.transform.position.x)
+            {
+                movHorizontal = -1;
+                //print("Moving Left...");
+            }
+            if (OriginY > Enemy.transform.position.y)
+            {
+                movVertical = 1;
+                //print("Moving Up...");
+            }
+            else if (OriginY < Enemy.transform.position.y)
+            {
+                movVertical = -1;
+                //print("Moving Down...");
+            }
+            rigidbody.velocity = new Vector2(movHorizontal, movVertical);
+        }
+        else if(!Seen)
+        {
+            rigidbody.velocity = new Vector2(0, 0);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -38,29 +73,6 @@ public class EnemyFollow : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Seen = false;
-            //while
-            if (!Seen && Enemy.transform.position.x != 0 && Enemy.transform.position.y != 3.4)
-            {
-                movHorizontal = 0;
-                movVertical = 0;
-                if (Enemy.transform.position.x < 0)
-                {
-                    movHorizontal = 0.5f;
-                }
-                else if (Enemy.transform.position.x > 0)
-                {
-                    movHorizontal = -0.5f;
-                }
-                if (Enemy.transform.position.y < 3.4)
-                {
-                    movVertical = 0.5f;
-                }
-                else if (Enemy.transform.position.y > 3.4)
-                {
-                    movVertical = -0.5f;
-                }
-                rigidbody.velocity = new Vector2(movHorizontal, movVertical);
-            }
         }
     }
 
