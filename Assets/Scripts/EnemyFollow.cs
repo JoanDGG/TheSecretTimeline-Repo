@@ -7,12 +7,16 @@ public class EnemyFollow : MonoBehaviour
 
     new private Rigidbody2D rigidbody;
     private GameObject Enemy;
-    private bool Seen;
+    public bool Seen;
     private float movHorizontal;
     private float movVertical;
     private float OriginX;
     private float OriginY;
-    private GameObject Wall;
+    public GameObject Photon;
+    private float PlayerPositionX;
+    private float PlayerPositionY;
+    private float EnemyPositionX;
+    private float EnemyPositionY;
 
     // Start is called before the first frame update
     void Start()
@@ -22,8 +26,6 @@ public class EnemyFollow : MonoBehaviour
         OriginX = Enemy.transform.position.x;
         OriginY = Enemy.transform.position.y;
         Seen = false;
-        print(OriginX);
-        print(OriginY);
     }
 
     // Update is called once per frame
@@ -67,10 +69,6 @@ public class EnemyFollow : MonoBehaviour
         {
             Seen = true;
         }
-        else if (other.CompareTag("Wall"))
-        {
-            Wall = other.gameObject;
-        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -83,34 +81,23 @@ public class EnemyFollow : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && Seen && GameManager.Alive)
+        if (other.CompareTag("Player") && GameManager.Alive)
         {
             GameObject Player = other.gameObject;
-            float PlayerPositionX = Player.transform.position.x;
-            float PlayerPositionY = Player.transform.position.y;
-            float EnemyPositionX = Enemy.transform.position.x;
-            float EnemyPositionY = Enemy.transform.position.y;
-            if (Wall != null)
-            {
-                float WallPositionX = Wall.transform.position.x;
-                float WallPositionY = Wall.transform.position.y;
-                float WallDistanceX = Mathf.Abs(WallPositionX - PlayerPositionX);
-                float WallDistanceY = Mathf.Abs(WallPositionY - PlayerPositionY);
-                float EWallDistanceX = Mathf.Abs(WallPositionX - EnemyPositionX);
-                float EWallDistanceY = Mathf.Abs(WallPositionY - EnemyPositionY);
-                float EPlayerDistanceX = Mathf.Abs(PlayerPositionX - EnemyPositionX);
-                float EPlayerDistanceY = Mathf.Abs(PlayerPositionY - EnemyPositionY);
-                if ((WallDistanceX < 0.5f && EWallDistanceY < EPlayerDistanceY) || (EWallDistanceX < EPlayerDistanceX && WallDistanceY < 0.5F))
-                {
-                    //print("The player took cover...");
-                    Seen = false;
-                }
-                else
-                {
-                    //print("The player lost cover...");
-                    Seen = true;
-                }
-            }
+            PlayerPositionX = Player.transform.position.x;
+            PlayerPositionY = Player.transform.position.y;
+            EnemyPositionX = Enemy.transform.position.x;
+            EnemyPositionY = Enemy.transform.position.y;
+            float Multiplier = 3;
+            float SpeedX = PlayerPositionX - EnemyPositionX;
+            float SpeedY = PlayerPositionY - EnemyPositionY;
+            GameObject photon = Instantiate(Photon, new Vector2(EnemyPositionX, EnemyPositionY), Quaternion.identity);
+            photon.transform.SetParent(this.transform);
+            photon.GetComponent<Rigidbody2D>().velocity = new Vector2(SpeedX * Multiplier, SpeedY * Multiplier);
+            Destroy(photon, 1.0f / Multiplier);
+        }
+        if (other.CompareTag("Player") && Seen && GameManager.Alive)
+        {
             movHorizontal = 0;
             movVertical = 0;
             //print("I, " + Enemy.name + ", see you " + Player.name);

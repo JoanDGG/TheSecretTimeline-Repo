@@ -283,7 +283,7 @@ GameObject:
   - component: {fileID: 364829402}
   m_Layer: 0
   m_Name: Sight
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -314,6 +314,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53c3f7c9b7cb61a408179a01ca9606d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Seen: 0
+  Photon: {fileID: 9192609237834152109, guid: c76480f9cfc9dfb4694b06662b80e60e, type: 3}
 --- !u!58 &364829403
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1357,7 +1359,7 @@ GameObject:
   - component: {fileID: 1601757918}
   m_Layer: 0
   m_Name: Body
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1701,6 +1703,10 @@ PrefabInstance:
     - target: {fileID: 8364877906515346915, guid: 92283d69095a6a646b3f65855a78e93e, type: 3}
       propertyPath: m_Name
       value: NPCEnemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8364877906515346915, guid: 92283d69095a6a646b3f65855a78e93e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 8364877906515346936, guid: 92283d69095a6a646b3f65855a78e93e, type: 3}
       propertyPath: m_RootOrder
