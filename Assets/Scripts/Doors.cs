@@ -31,5 +31,10 @@ public class Doors : MonoBehaviour
         {
             SceneManager.LoadScene("Prehistoria_1");
         }
+
+        else if (gameObject.name.Contains("Apocalipsis"))
+        {
+            SceneManager.LoadScene("Apocalipsis");
+        }
     }
 }
