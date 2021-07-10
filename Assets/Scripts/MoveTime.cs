@@ -54,6 +54,7 @@ public class MoveTime : MonoBehaviour
         {
             Near = true;
             Instructions.text = "Press z to rewind time\nPress c to fastforward time";
+            gameObject.transform.GetChild(0).gameObject.SetActive(true);
         }
     }
 
@@ -63,6 +64,7 @@ public class MoveTime : MonoBehaviour
         {
             Near = false;
             Instructions.text = "";
+            gameObject.transform.GetChild(0).gameObject.SetActive(false);
         }
     }
 

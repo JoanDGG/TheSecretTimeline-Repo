@@ -15,9 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Apocalipsis.unity
     guid: 0e731be4dd0d1a54ba08c98c67373e65
   - enabled: 1
-    path: Assets/Scenes/Prehistoria_1.unity
-    guid: 81d5e6733e15f4ebeb86813df0cbf3d2
-  - enabled: 1
     path: Assets/Scenes/Puertas.unity
     guid: 89ae65524e01cef4b956fa44939def14
+  - enabled: 1
+    path: Assets/Scenes/Prehistoria_1.unity
+    guid: 81d5e6733e15f4ebeb86813df0cbf3d2
   m_configObjects: {}

@@ -18,6 +18,8 @@ public class EnemyFollow : MonoBehaviour
     private float EnemyPositionX;
     private float EnemyPositionY;
 
+    public float velocity = 1.5f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -121,7 +123,7 @@ public class EnemyFollow : MonoBehaviour
                 movVertical = -1;
                 //print("Moving Down...");
             }
-            rigidbody.velocity = new Vector2(movHorizontal, movVertical);
+            rigidbody.velocity = new Vector2(movHorizontal * velocity, movVertical * velocity);
         }
     }
 }

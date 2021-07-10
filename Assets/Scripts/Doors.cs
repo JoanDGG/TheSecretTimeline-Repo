@@ -7,6 +7,8 @@ public class Doors : MonoBehaviour
 {
     public void OnTriggerEnter2D(Collider2D other)
     {
+        GameObject.Find("Player").gameObject.GetComponent<Movement>().SaveLocationPlayer();
+
         if (gameObject.name.Contains("Prehistoric"))
         {
             SceneManager.LoadScene("Prehistoria_1");
@@ -35,6 +37,11 @@ public class Doors : MonoBehaviour
         else if (gameObject.name.Contains("Apocalipsis"))
         {
             SceneManager.LoadScene("Apocalipsis");
+        }
+
+        else if (gameObject.name.Contains("Lab"))
+        {
+            SceneManager.LoadScene("Puertas");
         }
     }
 }
