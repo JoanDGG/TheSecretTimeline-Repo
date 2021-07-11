@@ -23,13 +23,44 @@ public class ItemCollection : MonoBehaviour
         if (NearItem && Input.GetKeyDown("e"))
         {
             pickup = false;
-            for (int i = 0; i < 3; i++)
+            if(Item.name == "Celular")
             {
-                if (GameManager.Inventory[i] == null)
+                pickup = true;
+            }
+            else if (Item.name == "Bata")
+            {
+                pickup = true;
+                GameManager.story3 = true;
+            }
+            else
+            {
+                if (Item.name == "Combustible")
                 {
-                    GameManager.Inventory[i] = Item;
-                    pickup = true;
-                    break;
+                    if(!GameManager.story1)
+                    {
+                        GameManager.story1 = true;
+                    }
+                    else
+                    {
+                        GameManager.story4 = true;
+                    }
+                }
+                else if (Item.name == "Walkman")
+                {
+                    GameManager.story2 = true;
+                }
+                else if (Item.name == "Lightsaber")
+                {
+                    GameManager.story5 = true;
+                }
+                for (int i = 0; i < 3; i++)
+                {
+                    if (GameManager.Inventory[i] == null)
+                    {
+                        GameManager.Inventory[i] = Item;
+                        pickup = true;
+                        break;
+                    }
                 }
             }
             if (pickup)

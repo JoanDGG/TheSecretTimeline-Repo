@@ -5,7 +5,7 @@ using UnityEngine;
 public class NPCDialogue : MonoBehaviour
 {
     private SpriteRenderer sprRenderer;
-    public Dialogue dialogue;
+    public Dialogue[] dialogue = new Dialogue[2];
     public GameObject Talk;
             
     void Start()
@@ -21,7 +21,19 @@ public class NPCDialogue : MonoBehaviour
             tmp.a = 0.5f;
             sprRenderer.color = tmp;
             Talk.SetActive(true);
-            Talk.GetComponent<DialogueTrigger>().dialogue = dialogue;
+            if((GameManager.scene == 2 && !GameManager.story1)
+                || (GameManager.scene == 5 && !GameManager.story2)
+                || (GameManager.scene == 8 && !GameManager.story3 && gameObject.name == "Guard")
+                || (GameManager.scene == 8 && !GameManager.story4 && gameObject.name == "James")
+                || (GameManager.scene == 8 && !GameManager.story5 && gameObject.name == "Amy"))
+            {
+                Talk.GetComponent<DialogueTrigger>().dialogue = dialogue[0];
+            }
+            else
+            {
+                Talk.GetComponent<DialogueTrigger>().dialogue = dialogue[1];
+            }
+            
         }
     }
 

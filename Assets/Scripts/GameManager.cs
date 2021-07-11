@@ -27,4 +27,19 @@ public class GameManager : MonoBehaviour
     public static Vector2 position_wwii = new Vector2(0, 0);
     public static Vector2 position_covid = new Vector2(0, 0);
     public static Vector2 position_futurama = new Vector2(0, 0);
+
+    //Conseguir combustible en apocalipsis
+    public static bool story1 = false;
+
+    //Conseguir walkman en 80
+    public static bool story2 = false;
+
+    //Conseguir bata en futurama
+    public static bool story3 = false;
+
+    //Conseguir combustible en futurama
+    public static bool story4 = false;
+
+    //Conseguir sable en futurama
+    public static bool story5 = false;
 }
