@@ -16,6 +16,11 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene("Apocalipsis");
     }
 
+    public void End()
+    {
+        SceneManager.LoadScene("Final");
+    }
+
     public void HowTo()
     {
         // Cambiar a la escena 'Log In'
