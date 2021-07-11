@@ -27,6 +27,14 @@ public class ItemCollection : MonoBehaviour
             {
                 pickup = true;
             }
+            else if (Item.name == "Huevo")
+            {
+                pickup = true;
+            }
+            else if (Item.name == "Roca")
+            {
+                Item.transform.GetChild(0).gameObject.SetActive(true);
+            }
             else if (Item.name == "Bata")
             {
                 pickup = true;
@@ -71,7 +79,7 @@ public class ItemCollection : MonoBehaviour
             }
             else
             {
-                instruction.text = "You can not pick up " + Item.name + " because your inventory is full";
+                instruction.text = "You can not pick up " + Item.name;
             }
         }
     }

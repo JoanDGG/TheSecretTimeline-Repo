@@ -17,6 +17,11 @@ public class PlaceItem : MonoBehaviour
                 instruction = GameObject.Find("Instructions").GetComponent<Text>();
                 instruction.text = "Click on the stairs in your inventory to place them";
             }
+            else if (gameObject.name == "Roca")
+            {
+                instruction = GameObject.Find("Instructions").GetComponent<Text>();
+                instruction.text = "Click on the rock to cause a collapse";
+            }
         }
         else if (other.gameObject.name.Contains(required.name))
         {
@@ -30,11 +35,8 @@ public class PlaceItem : MonoBehaviour
     {
         if (other.gameObject.name == "Player")
         {
-            if (gameObject.name == "Escaleras")
-            {
-                instruction = GameObject.Find("Instructions").GetComponent<Text>();
-                instruction.text = "";
-            }
+            instruction = GameObject.Find("Instructions").GetComponent<Text>();
+            instruction.text = "";
         }
     }
 }
