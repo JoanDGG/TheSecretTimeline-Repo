@@ -1,7 +1,1735 @@
 fileFormatVersion: 2
 guid: 0a2cfd169265248b8a76186b3ec2a889
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 480437841438791787
+    second: NPC_Future_ 4_Hubert_0
+  - first:
+      213: 8536519538931763652
+    second: NPC_Future_ 4_Hubert_1
+  - first:
+      213: 4381330430521553980
+    second: NPC_Future_ 4_Hubert_2
+  - first:
+      213: -7427209822697712055
+    second: NPC_Future_ 4_Hubert_3
+  - first:
+      213: -868648024557844423
+    second: NPC_Future_ 4_Hubert_4
+  - first:
+      213: 2898415195666624522
+    second: NPC_Future_ 4_Hubert_5
+  - first:
+      213: 6789987102731618116
+    second: NPC_Future_ 4_Hubert_6
+  - first:
+      213: -1516292908592065068
+    second: NPC_Future_ 4_Hubert_7
+  - first:
+      213: 7299956433717873728
+    second: NPC_Future_ 4_Hubert_8
+  - first:
+      213: 7973167503690350012
+    second: NPC_Future_ 4_Hubert_9
+  - first:
+      213: 997023606482815996
+    second: NPC_Future_ 4_Hubert_10
+  - first:
+      213: 648232892912787642
+    second: NPC_Future_ 4_Hubert_11
+  - first:
+      213: -3828487095325973246
+    second: NPC_Future_ 4_Hubert_12
+  - first:
+      213: 2293753081999778325
+    second: NPC_Future_ 4_Hubert_13
+  - first:
+      213: 7221479434778971659
+    second: NPC_Future_ 4_Hubert_14
+  - first:
+      213: -3639679497561658952
+    second: NPC_Future_ 4_Hubert_15
+  - first:
+      213: 8205387659527733349
+    second: NPC_Future_ 4_Hubert_16
+  - first:
+      213: 5352819085953352898
+    second: NPC_Future_ 4_Hubert_17
+  - first:
+      213: 5421540640836348282
+    second: NPC_Future_ 4_Hubert_18
+  - first:
+      213: 1811927556113001822
+    second: NPC_Future_ 4_Hubert_19
+  - first:
+      213: -2172327477478753607
+    second: NPC_Future_ 4_Hubert_20
+  - first:
+      213: 2131555222444607062
+    second: NPC_Future_ 4_Hubert_21
+  - first:
+      213: -1924628607569721880
+    second: NPC_Future_ 4_Hubert_22
+  - first:
+      213: 8218758585829771582
+    second: NPC_Future_ 4_Hubert_23
+  - first:
+      213: -471211891446037784
+    second: NPC_Future_ 4_Hubert_24
+  - first:
+      213: -680031199166784153
+    second: NPC_Future_ 4_Hubert_25
+  - first:
+      213: 7912960081117056448
+    second: NPC_Future_ 4_Hubert_26
+  - first:
+      213: 3356695882115358731
+    second: NPC_Future_ 4_Hubert_27
+  - first:
+      213: -7123279755897461820
+    second: NPC_Future_ 4_Hubert_28
+  - first:
+      213: -3263815139412383841
+    second: NPC_Future_ 4_Hubert_29
+  - first:
+      213: 6028907955467599429
+    second: NPC_Future_ 4_Hubert_30
+  - first:
+      213: -4297423076339599988
+    second: NPC_Future_ 4_Hubert_31
+  - first:
+      213: 6743107571955793321
+    second: NPC_Future_ 4_Hubert_32
+  - first:
+      213: -3968214200207842960
+    second: NPC_Future_ 4_Hubert_33
+  - first:
+      213: 4221515201420211815
+    second: NPC_Future_ 4_Hubert_34
+  - first:
+      213: -3031655111780781308
+    second: NPC_Future_ 4_Hubert_35
+  - first:
+      213: -5284043788184068004
+    second: NPC_Future_ 4_Hubert_36
+  - first:
+      213: 1492809697390850320
+    second: NPC_Future_ 4_Hubert_37
+  - first:
+      213: 588116260848440272
+    second: NPC_Future_ 4_Hubert_38
+  - first:
+      213: 5228628518199339972
+    second: NPC_Future_ 4_Hubert_39
+  - first:
+      213: 966170406513406767
+    second: NPC_Future_ 4_Hubert_40
+  - first:
+      213: 7603670183073949385
+    second: NPC_Future_ 4_Hubert_41
+  - first:
+      213: -234229755232888278
+    second: NPC_Future_ 4_Hubert_42
+  - first:
+      213: 5254631356928738686
+    second: NPC_Future_ 4_Hubert_43
+  - first:
+      213: 8646340618214641428
+    second: NPC_Future_ 4_Hubert_44
+  - first:
+      213: -6314224599752374861
+    second: NPC_Future_ 4_Hubert_45
+  - first:
+      213: -6892753502896942988
+    second: NPC_Future_ 4_Hubert_46
+  - first:
+      213: 5045626550914128618
+    second: NPC_Future_ 4_Hubert_47
+  - first:
+      213: -5138346425624438468
+    second: NPC_Future_ 4_Hubert_48
+  - first:
+      213: -1739367270609628209
+    second: NPC_Future_ 4_Hubert_49
+  - first:
+      213: -3170551517373529798
+    second: NPC_Future_ 4_Hubert_50
+  - first:
+      213: 226377982686590515
+    second: NPC_Future_ 4_Hubert_51
+  - first:
+      213: 7640044427825990082
+    second: NPC_Future_ 4_Hubert_52
+  - first:
+      213: -3788736270837156535
+    second: NPC_Future_ 4_Hubert_53
+  - first:
+      213: 5183466884960075356
+    second: NPC_Future_ 4_Hubert_54
+  - first:
+      213: -1281189398911532163
+    second: NPC_Future_ 4_Hubert_55
+  - first:
+      213: -7282297753768885589
+    second: NPC_Future_ 4_Hubert_56
+  - first:
+      213: -7877606021543295988
+    second: NPC_Future_ 4_Hubert_57
+  - first:
+      213: -6593131443787129221
+    second: NPC_Future_ 4_Hubert_58
+  - first:
+      213: -1108923999778126752
+    second: NPC_Future_ 4_Hubert_59
+  - first:
+      213: -4594425167590156578
+    second: NPC_Future_ 4_Hubert_60
+  - first:
+      213: -7828842337628002035
+    second: NPC_Future_ 4_Hubert_61
+  - first:
+      213: 4311245072009289326
+    second: NPC_Future_ 4_Hubert_62
+  - first:
+      213: 1358827563244045413
+    second: NPC_Future_ 4_Hubert_63
+  - first:
+      213: -2917377927774882821
+    second: NPC_Future_ 4_Hubert_64
+  - first:
+      213: 5067443613920665533
+    second: NPC_Future_ 4_Hubert_65
+  - first:
+      213: -8075230899436272509
+    second: NPC_Future_ 4_Hubert_66
+  - first:
+      213: 1394257709347116874
+    second: NPC_Future_ 4_Hubert_67
+  - first:
+      213: 7114086969762775515
+    second: NPC_Future_ 4_Hubert_68
+  - first:
+      213: -3787177488948226314
+    second: NPC_Future_ 4_Hubert_69
+  - first:
+      213: -9163862569663953310
+    second: NPC_Future_ 4_Hubert_70
+  - first:
+      213: 6871103268444681467
+    second: NPC_Future_ 4_Hubert_71
+  - first:
+      213: 684103353948227667
+    second: NPC_Future_ 4_Hubert_72
+  - first:
+      213: -4836179699210469493
+    second: NPC_Future_ 4_Hubert_73
+  - first:
+      213: -3407901543727506657
+    second: NPC_Future_ 4_Hubert_74
+  - first:
+      213: 275965119106587923
+    second: NPC_Future_ 4_Hubert_75
+  - first:
+      213: -421108690517646007
+    second: NPC_Future_ 4_Hubert_76
+  - first:
+      213: 9092777994621999008
+    second: NPC_Future_ 4_Hubert_77
+  - first:
+      213: 5716796479928647069
+    second: NPC_Future_ 4_Hubert_78
+  - first:
+      213: -3607239099294539680
+    second: NPC_Future_ 4_Hubert_79
+  - first:
+      213: 7556972609404113694
+    second: NPC_Future_ 4_Hubert_80
+  - first:
+      213: -3668337983464804115
+    second: NPC_Future_ 4_Hubert_81
+  - first:
+      213: -3599646473732916263
+    second: NPC_Future_ 4_Hubert_82
+  - first:
+      213: -1879468027179221164
+    second: NPC_Future_ 4_Hubert_83
+  - first:
+      213: -7874797087831018269
+    second: NPC_Future_ 4_Hubert_84
+  - first:
+      213: 8768524112539150855
+    second: NPC_Future_ 4_Hubert_85
+  - first:
+      213: 8938988755084114910
+    second: NPC_Future_ 4_Hubert_86
+  - first:
+      213: 3198704855149506927
+    second: NPC_Future_ 4_Hubert_87
+  - first:
+      213: -5403713277427005595
+    second: NPC_Future_ 4_Hubert_88
+  - first:
+      213: -320515092467488873
+    second: NPC_Future_ 4_Hubert_89
+  - first:
+      213: -9194161191533304472
+    second: NPC_Future_ 4_Hubert_90
+  - first:
+      213: 4881562885796684856
+    second: NPC_Future_ 4_Hubert_91
+  - first:
+      213: -8757700782343183952
+    second: NPC_Future_ 4_Hubert_92
+  - first:
+      213: -7718285767765279692
+    second: NPC_Future_ 4_Hubert_93
+  - first:
+      213: -1802958043934379773
+    second: NPC_Future_ 4_Hubert_94
+  - first:
+      213: -2495394638897360445
+    second: NPC_Future_ 4_Hubert_95
+  - first:
+      213: 1535963287908502119
+    second: NPC_Future_ 4_Hubert_96
+  - first:
+      213: -1646809164067158595
+    second: NPC_Future_ 4_Hubert_97
+  - first:
+      213: -8683991615096363173
+    second: NPC_Future_ 4_Hubert_98
+  - first:
+      213: -6823475416014925299
+    second: NPC_Future_ 4_Hubert_99
+  - first:
+      213: -4985445554741790142
+    second: NPC_Future_ 4_Hubert_100
+  - first:
+      213: 2443808899429998597
+    second: NPC_Future_ 4_Hubert_101
+  - first:
+      213: 8273626422997946790
+    second: NPC_Future_ 4_Hubert_102
+  - first:
+      213: 6518892613501235587
+    second: NPC_Future_ 4_Hubert_103
+  - first:
+      213: 9085744034378741269
+    second: NPC_Future_ 4_Hubert_104
+  - first:
+      213: -8795232239142867918
+    second: NPC_Future_ 4_Hubert_105
+  - first:
+      213: -7037346960459872932
+    second: NPC_Future_ 4_Hubert_106
+  - first:
+      213: 3385249200211111587
+    second: NPC_Future_ 4_Hubert_107
+  - first:
+      213: -8108892894861540379
+    second: NPC_Future_ 4_Hubert_108
+  - first:
+      213: 7137668377866390165
+    second: NPC_Future_ 4_Hubert_109
+  - first:
+      213: -6634214766059029806
+    second: NPC_Future_ 4_Hubert_110
+  - first:
+      213: -2840192241603931171
+    second: NPC_Future_ 4_Hubert_111
+  - first:
+      213: -6846306498612610193
+    second: NPC_Future_ 4_Hubert_112
+  - first:
+      213: 1341931357542093848
+    second: NPC_Future_ 4_Hubert_113
+  - first:
+      213: -3614007129533919624
+    second: NPC_Future_ 4_Hubert_114
+  - first:
+      213: -8722706661129791840
+    second: NPC_Future_ 4_Hubert_115
+  - first:
+      213: 5085633282600015615
+    second: NPC_Future_ 4_Hubert_116
+  - first:
+      213: 2034237734581855221
+    second: NPC_Future_ 4_Hubert_117
+  - first:
+      213: 31429692923695295
+    second: NPC_Future_ 4_Hubert_118
+  - first:
+      213: 3846380813618085642
+    second: NPC_Future_ 4_Hubert_119
+  - first:
+      213: -5269291713626359263
+    second: NPC_Future_ 4_Hubert_120
+  - first:
+      213: 7243928516557588576
+    second: NPC_Future_ 4_Hubert_121
+  - first:
+      213: -757598427590462074
+    second: NPC_Future_ 4_Hubert_122
+  - first:
+      213: -8169502755584024449
+    second: NPC_Future_ 4_Hubert_123
+  - first:
+      213: 8430517344469207920
+    second: NPC_Future_ 4_Hubert_124
+  - first:
+      213: 3107625132181116783
+    second: NPC_Future_ 4_Hubert_125
+  - first:
+      213: -4805273769221872722
+    second: NPC_Future_ 4_Hubert_126
+  - first:
+      213: 6869613543281078290
+    second: NPC_Future_ 4_Hubert_127
+  - first:
+      213: 3965594227720334526
+    second: NPC_Future_ 4_Hubert_128
+  - first:
+      213: -8334782031886903101
+    second: NPC_Future_ 4_Hubert_129
+  - first:
+      213: -32008297399628416
+    second: NPC_Future_ 4_Hubert_130
+  - first:
+      213: 6332108911312210870
+    second: NPC_Future_ 4_Hubert_131
+  - first:
+      213: 4942286850834858039
+    second: NPC_Future_ 4_Hubert_132
+  - first:
+      213: 6105976423772219360
+    second: NPC_Future_ 4_Hubert_133
+  - first:
+      213: -3636559277017772272
+    second: NPC_Future_ 4_Hubert_134
+  - first:
+      213: -119469301710636278
+    second: NPC_Future_ 4_Hubert_135
+  - first:
+      213: 1663993606030001170
+    second: NPC_Future_ 4_Hubert_136
+  - first:
+      213: -287626047193483680
+    second: NPC_Future_ 4_Hubert_137
+  - first:
+      213: 5838250934402659170
+    second: NPC_Future_ 4_Hubert_138
+  - first:
+      213: 4136891761285692251
+    second: NPC_Future_ 4_Hubert_139
+  - first:
+      213: -4781281432969041570
+    second: NPC_Future_ 4_Hubert_140
+  - first:
+      213: 6619912781104777017
+    second: NPC_Future_ 4_Hubert_141
+  - first:
+      213: 5391361341115291275
+    second: NPC_Future_ 4_Hubert_142
+  - first:
+      213: 5081496743930564525
+    second: NPC_Future_ 4_Hubert_143
+  - first:
+      213: 44790662211717962
+    second: NPC_Future_ 4_Hubert_144
+  - first:
+      213: 3236937265647043579
+    second: NPC_Future_ 4_Hubert_145
+  - first:
+      213: 8069118785214583159
+    second: NPC_Future_ 4_Hubert_146
+  - first:
+      213: -5980395308349018521
+    second: NPC_Future_ 4_Hubert_147
+  - first:
+      213: 3777597064230460011
+    second: NPC_Future_ 4_Hubert_148
+  - first:
+      213: 5702859139743238
+    second: NPC_Future_ 4_Hubert_149
+  - first:
+      213: 5885981661501181384
+    second: NPC_Future_ 4_Hubert_150
+  - first:
+      213: -7509343731448932981
+    second: NPC_Future_ 4_Hubert_151
+  - first:
+      213: 6540099282318417015
+    second: NPC_Future_ 4_Hubert_152
+  - first:
+      213: -2302115904676326836
+    second: NPC_Future_ 4_Hubert_153
+  - first:
+      213: 7477062242077697732
+    second: NPC_Future_ 4_Hubert_154
+  - first:
+      213: 6100611704669085565
+    second: NPC_Future_ 4_Hubert_155
+  - first:
+      213: 1466583111972134656
+    second: NPC_Future_ 4_Hubert_156
+  - first:
+      213: -7361824796813917646
+    second: NPC_Future_ 4_Hubert_157
+  - first:
+      213: -3033518898436797095
+    second: NPC_Future_ 4_Hubert_158
+  - first:
+      213: -7263729677074809313
+    second: NPC_Future_ 4_Hubert_159
+  - first:
+      213: -4481317067580173087
+    second: NPC_Future_ 4_Hubert_160
+  - first:
+      213: -2646439544106272726
+    second: NPC_Future_ 4_Hubert_161
+  - first:
+      213: -4861738039252447465
+    second: NPC_Future_ 4_Hubert_162
+  - first:
+      213: 3357030416109155971
+    second: NPC_Future_ 4_Hubert_163
+  - first:
+      213: -255361921396781369
+    second: NPC_Future_ 4_Hubert_164
+  - first:
+      213: -1538661358661913122
+    second: NPC_Future_ 4_Hubert_165
+  - first:
+      213: -7056440571538264593
+    second: NPC_Future_ 4_Hubert_166
+  - first:
+      213: -9114642511966115282
+    second: NPC_Future_ 4_Hubert_167
+  - first:
+      213: -77571883907182721
+    second: NPC_Future_ 4_Hubert_168
+  - first:
+      213: 7322515734333948596
+    second: NPC_Future_ 4_Hubert_169
+  - first:
+      213: -5195163181587358102
+    second: NPC_Future_ 4_Hubert_170
+  - first:
+      213: -4423306924241788543
+    second: NPC_Future_ 4_Hubert_171
+  - first:
+      213: 8044441310537119067
+    second: NPC_Future_ 4_Hubert_172
+  - first:
+      213: -1096129706207648449
+    second: NPC_Future_ 4_Hubert_173
+  - first:
+      213: -7687360151458240174
+    second: NPC_Future_ 4_Hubert_174
+  - first:
+      213: 3245865155175317787
+    second: NPC_Future_ 4_Hubert_175
+  - first:
+      213: -8710042271385850490
+    second: NPC_Future_ 4_Hubert_176
+  - first:
+      213: 8326209874969940422
+    second: NPC_Future_ 4_Hubert_177
+  - first:
+      213: 2148759058351184667
+    second: NPC_Future_ 4_Hubert_178
+  - first:
+      213: -2144776185941363866
+    second: NPC_Future_ 4_Hubert_179
+  - first:
+      213: -2071377618138233537
+    second: NPC_Future_ 4_Hubert_180
+  - first:
+      213: -6955967566853100175
+    second: NPC_Future_ 4_Hubert_181
+  - first:
+      213: -7971193037334402533
+    second: NPC_Future_ 4_Hubert_182
+  - first:
+      213: 5910763167425245275
+    second: NPC_Future_ 4_Hubert_183
+  - first:
+      213: -9115653107576933898
+    second: NPC_Future_ 4_Hubert_184
+  - first:
+      213: 7762254459071270996
+    second: NPC_Future_ 4_Hubert_185
+  - first:
+      213: -2147374062363129412
+    second: NPC_Future_ 4_Hubert_186
+  - first:
+      213: 6306046352713748611
+    second: NPC_Future_ 4_Hubert_187
+  - first:
+      213: 2242069844013097651
+    second: NPC_Future_ 4_Hubert_188
+  - first:
+      213: -3857210878122807529
+    second: NPC_Future_ 4_Hubert_189
+  - first:
+      213: 6660231731661794927
+    second: NPC_Future_ 4_Hubert_190
+  - first:
+      213: 5497996997657655327
+    second: NPC_Future_ 4_Hubert_191
+  - first:
+      213: 8254988626183614783
+    second: NPC_Future_ 4_Hubert_192
+  - first:
+      213: -2188729497206140336
+    second: NPC_Future_ 4_Hubert_193
+  - first:
+      213: 4347566781761491279
+    second: NPC_Future_ 4_Hubert_194
+  - first:
+      213: 6544830624890512774
+    second: NPC_Future_ 4_Hubert_195
+  - first:
+      213: -5381958095068431106
+    second: NPC_Future_ 4_Hubert_196
+  - first:
+      213: -126833535048565549
+    second: NPC_Future_ 4_Hubert_197
+  - first:
+      213: 1352887262480270523
+    second: NPC_Future_ 4_Hubert_198
+  - first:
+      213: -90470366224538960
+    second: NPC_Future_ 4_Hubert_199
+  - first:
+      213: 3181689240803199769
+    second: NPC_Future_ 4_Hubert_200
+  - first:
+      213: 1001228919317271795
+    second: NPC_Future_ 4_Hubert_201
+  - first:
+      213: 2509349772958562828
+    second: NPC_Future_ 4_Hubert_202
+  - first:
+      213: 1657173962522090349
+    second: NPC_Future_ 4_Hubert_203
+  - first:
+      213: 7447647749961127571
+    second: NPC_Future_ 4_Hubert_204
+  - first:
+      213: -7261427302458538901
+    second: NPC_Future_ 4_Hubert_205
+  - first:
+      213: 4693136090816890630
+    second: NPC_Future_ 4_Hubert_206
+  - first:
+      213: -6310759031156783167
+    second: NPC_Future_ 4_Hubert_207
+  - first:
+      213: -5016769074151807500
+    second: NPC_Future_ 4_Hubert_208
+  - first:
+      213: 9188793033116557489
+    second: NPC_Future_ 4_Hubert_209
+  - first:
+      213: -4904703343135719738
+    second: NPC_Future_ 4_Hubert_210
+  - first:
+      213: -920589669897981124
+    second: NPC_Future_ 4_Hubert_211
+  - first:
+      213: -1198996329784316095
+    second: NPC_Future_ 4_Hubert_212
+  - first:
+      213: 2005774501681263343
+    second: NPC_Future_ 4_Hubert_213
+  - first:
+      213: 3291688352197214071
+    second: NPC_Future_ 4_Hubert_214
+  - first:
+      213: 3891110709767021486
+    second: NPC_Future_ 4_Hubert_215
+  - first:
+      213: 8143427582830248895
+    second: NPC_Future_ 4_Hubert_216
+  - first:
+      213: -5079673369901697967
+    second: NPC_Future_ 4_Hubert_217
+  - first:
+      213: 3454629276995080412
+    second: NPC_Future_ 4_Hubert_218
+  - first:
+      213: -1356276415684744460
+    second: NPC_Future_ 4_Hubert_219
+  - first:
+      213: 1955341354793439676
+    second: NPC_Future_ 4_Hubert_220
+  - first:
+      213: 3570686691913975619
+    second: NPC_Future_ 4_Hubert_221
+  - first:
+      213: -8625077889760674930
+    second: NPC_Future_ 4_Hubert_222
+  - first:
+      213: 8020082887337171658
+    second: NPC_Future_ 4_Hubert_223
+  - first:
+      213: -1527132407150009803
+    second: NPC_Future_ 4_Hubert_224
+  - first:
+      213: -4343942014586868527
+    second: NPC_Future_ 4_Hubert_225
+  - first:
+      213: 8774448346496154756
+    second: NPC_Future_ 4_Hubert_226
+  - first:
+      213: -3161455764802510549
+    second: NPC_Future_ 4_Hubert_227
+  - first:
+      213: 43719525566194298
+    second: NPC_Future_ 4_Hubert_228
+  - first:
+      213: 1226330309187503174
+    second: NPC_Future_ 4_Hubert_229
+  - first:
+      213: 4832336106639019086
+    second: NPC_Future_ 4_Hubert_230
+  - first:
+      213: -3578799959008223258
+    second: NPC_Future_ 4_Hubert_231
+  - first:
+      213: 1937139563899606050
+    second: NPC_Future_ 4_Hubert_232
+  - first:
+      213: 3874598652044578360
+    second: NPC_Future_ 4_Hubert_233
+  - first:
+      213: -5337616861519456718
+    second: NPC_Future_ 4_Hubert_234
+  - first:
+      213: 6865845492515815290
+    second: NPC_Future_ 4_Hubert_235
+  - first:
+      213: 2225755931643747017
+    second: NPC_Future_ 4_Hubert_236
+  - first:
+      213: 3072738655432533649
+    second: NPC_Future_ 4_Hubert_237
+  - first:
+      213: -9186569782743726923
+    second: NPC_Future_ 4_Hubert_238
+  - first:
+      213: 7106882965499027456
+    second: NPC_Future_ 4_Hubert_239
+  - first:
+      213: -3503330553999939791
+    second: NPC_Future_ 4_Hubert_240
+  - first:
+      213: -8823382883996299222
+    second: NPC_Future_ 4_Hubert_241
+  - first:
+      213: 2867706503795860885
+    second: NPC_Future_ 4_Hubert_242
+  - first:
+      213: 3132441466052511884
+    second: NPC_Future_ 4_Hubert_243
+  - first:
+      213: 2614353159271188510
+    second: NPC_Future_ 4_Hubert_244
+  - first:
+      213: 2194389462592494063
+    second: NPC_Future_ 4_Hubert_245
+  - first:
+      213: 8013339338157625649
+    second: NPC_Future_ 4_Hubert_246
+  - first:
+      213: 7868642370385991459
+    second: NPC_Future_ 4_Hubert_247
+  - first:
+      213: 3589090000807041079
+    second: NPC_Future_ 4_Hubert_248
+  - first:
+      213: 8620738819663512688
+    second: NPC_Future_ 4_Hubert_249
+  - first:
+      213: 5635462038315472334
+    second: NPC_Future_ 4_Hubert_250
+  - first:
+      213: -102324244263038046
+    second: NPC_Future_ 4_Hubert_251
+  - first:
+      213: -3650872751815463161
+    second: NPC_Future_ 4_Hubert_252
+  - first:
+      213: 8632262450981862591
+    second: NPC_Future_ 4_Hubert_253
+  - first:
+      213: -1768900919366527285
+    second: NPC_Future_ 4_Hubert_254
+  - first:
+      213: 7933628822598495811
+    second: NPC_Future_ 4_Hubert_255
+  - first:
+      213: 5201964002955886420
+    second: NPC_Future_ 4_Hubert_256
+  - first:
+      213: 8809428167127172014
+    second: NPC_Future_ 4_Hubert_257
+  - first:
+      213: 8490404168093312562
+    second: NPC_Future_ 4_Hubert_258
+  - first:
+      213: -7324871027810801164
+    second: NPC_Future_ 4_Hubert_259
+  - first:
+      213: -3746057854333144768
+    second: NPC_Future_ 4_Hubert_260
+  - first:
+      213: 3785102060903941461
+    second: NPC_Future_ 4_Hubert_261
+  - first:
+      213: -1842005252553372824
+    second: NPC_Future_ 4_Hubert_262
+  - first:
+      213: 329574086098870673
+    second: NPC_Future_ 4_Hubert_263
+  - first:
+      213: 2402926236831194189
+    second: NPC_Future_ 4_Hubert_264
+  - first:
+      213: -5699846721228217299
+    second: NPC_Future_ 4_Hubert_265
+  - first:
+      213: 7544194970507096234
+    second: NPC_Future_ 4_Hubert_266
+  - first:
+      213: 1872347979764296310
+    second: NPC_Future_ 4_Hubert_267
+  - first:
+      213: 1032620689513646900
+    second: NPC_Future_ 4_Hubert_268
+  - first:
+      213: 2037895694567779143
+    second: NPC_Future_ 4_Hubert_269
+  - first:
+      213: -5963646136530251174
+    second: NPC_Future_ 4_Hubert_270
+  - first:
+      213: -417587320013643751
+    second: NPC_Future_ 4_Hubert_271
+  - first:
+      213: 2961162642284414835
+    second: NPC_Future_ 4_Hubert_272
+  - first:
+      213: 6892770738786381290
+    second: NPC_Future_ 4_Hubert_273
+  - first:
+      213: 4977465475158822336
+    second: NPC_Future_ 4_Hubert_274
+  - first:
+      213: -8069441757918599633
+    second: NPC_Future_ 4_Hubert_275
+  - first:
+      213: 5871507789856416191
+    second: NPC_Future_ 4_Hubert_276
+  - first:
+      213: 7914463621299592422
+    second: NPC_Future_ 4_Hubert_277
+  - first:
+      213: -8025484189119105333
+    second: NPC_Future_ 4_Hubert_278
+  - first:
+      213: -3418713309389338120
+    second: NPC_Future_ 4_Hubert_279
+  - first:
+      213: 4233046733137613804
+    second: NPC_Future_ 4_Hubert_280
+  - first:
+      213: -7766908421288052124
+    second: NPC_Future_ 4_Hubert_281
+  - first:
+      213: 6747874457366262715
+    second: NPC_Future_ 4_Hubert_282
+  - first:
+      213: 4108118291604402574
+    second: NPC_Future_ 4_Hubert_283
+  - first:
+      213: 4567758583389811984
+    second: NPC_Future_ 4_Hubert_284
+  - first:
+      213: 2065774659880939063
+    second: NPC_Future_ 4_Hubert_285
+  - first:
+      213: 1770743433599333550
+    second: NPC_Future_ 4_Hubert_286
+  - first:
+      213: 4783781385769425078
+    second: NPC_Future_ 4_Hubert_287
+  - first:
+      213: 8514793898872924599
+    second: NPC_Future_ 4_Hubert_288
+  - first:
+      213: 9198644812093521576
+    second: NPC_Future_ 4_Hubert_289
+  - first:
+      213: 1034441955403603259
+    second: NPC_Future_ 4_Hubert_290
+  - first:
+      213: -3907065631084114581
+    second: NPC_Future_ 4_Hubert_291
+  - first:
+      213: -6222428867956826253
+    second: NPC_Future_ 4_Hubert_292
+  - first:
+      213: -8614313532889061200
+    second: NPC_Future_ 4_Hubert_293
+  - first:
+      213: 794462135588491910
+    second: NPC_Future_ 4_Hubert_294
+  - first:
+      213: 8221792775026761618
+    second: NPC_Future_ 4_Hubert_295
+  - first:
+      213: -2939286761589845477
+    second: NPC_Future_ 4_Hubert_296
+  - first:
+      213: -6039294362128013845
+    second: NPC_Future_ 4_Hubert_297
+  - first:
+      213: -887882935721706954
+    second: NPC_Future_ 4_Hubert_298
+  - first:
+      213: 2992418942998869827
+    second: NPC_Future_ 4_Hubert_299
+  - first:
+      213: -1792153235461753583
+    second: NPC_Future_ 4_Hubert_300
+  - first:
+      213: 304609710470276935
+    second: NPC_Future_ 4_Hubert_301
+  - first:
+      213: -3169609399979364204
+    second: NPC_Future_ 4_Hubert_302
+  - first:
+      213: -2231745389545845149
+    second: NPC_Future_ 4_Hubert_303
+  - first:
+      213: 6756237662915237420
+    second: NPC_Future_ 4_Hubert_304
+  - first:
+      213: -5304760280202914956
+    second: NPC_Future_ 4_Hubert_305
+  - first:
+      213: -458288776601013893
+    second: NPC_Future_ 4_Hubert_306
+  - first:
+      213: -7722978654405243500
+    second: NPC_Future_ 4_Hubert_307
+  - first:
+      213: 6750290713037094749
+    second: NPC_Future_ 4_Hubert_308
+  - first:
+      213: -7330718088432497229
+    second: NPC_Future_ 4_Hubert_309
+  - first:
+      213: -294346606381266018
+    second: NPC_Future_ 4_Hubert_310
+  - first:
+      213: 3680280484261025880
+    second: NPC_Future_ 4_Hubert_311
+  - first:
+      213: -242359382604834092
+    second: NPC_Future_ 4_Hubert_312
+  - first:
+      213: -7059858368414936802
+    second: NPC_Future_ 4_Hubert_313
+  - first:
+      213: -4993842286178451225
+    second: NPC_Future_ 4_Hubert_314
+  - first:
+      213: -3560321500855923830
+    second: NPC_Future_ 4_Hubert_315
+  - first:
+      213: -4658284251121647232
+    second: NPC_Future_ 4_Hubert_316
+  - first:
+      213: 581898600103834397
+    second: NPC_Future_ 4_Hubert_317
+  - first:
+      213: -109632962108940951
+    second: NPC_Future_ 4_Hubert_318
+  - first:
+      213: -5888928722391384250
+    second: NPC_Future_ 4_Hubert_319
+  - first:
+      213: 4192169741316813795
+    second: NPC_Future_ 4_Hubert_320
+  - first:
+      213: -2846609848693809053
+    second: NPC_Future_ 4_Hubert_321
+  - first:
+      213: -9182866002680696483
+    second: NPC_Future_ 4_Hubert_322
+  - first:
+      213: -6323432222286317120
+    second: NPC_Future_ 4_Hubert_323
+  - first:
+      213: 1419643473665108916
+    second: NPC_Future_ 4_Hubert_324
+  - first:
+      213: 4715725980574402761
+    second: NPC_Future_ 4_Hubert_325
+  - first:
+      213: -4362171824156002631
+    second: NPC_Future_ 4_Hubert_326
+  - first:
+      213: -3387103976936148091
+    second: NPC_Future_ 4_Hubert_327
+  - first:
+      213: 2090766346065626481
+    second: NPC_Future_ 4_Hubert_328
+  - first:
+      213: 8006860148011175409
+    second: NPC_Future_ 4_Hubert_329
+  - first:
+      213: -7760264034808348287
+    second: NPC_Future_ 4_Hubert_330
+  - first:
+      213: -5430848222016092832
+    second: NPC_Future_ 4_Hubert_331
+  - first:
+      213: -7838825693483790861
+    second: NPC_Future_ 4_Hubert_332
+  - first:
+      213: 6749496182651854316
+    second: NPC_Future_ 4_Hubert_333
+  - first:
+      213: -8284713369782983671
+    second: NPC_Future_ 4_Hubert_334
+  - first:
+      213: 8726914603082034281
+    second: NPC_Future_ 4_Hubert_335
+  - first:
+      213: 767686288326672342
+    second: NPC_Future_ 4_Hubert_336
+  - first:
+      213: -2143413810139137108
+    second: NPC_Future_ 4_Hubert_337
+  - first:
+      213: -5816918562812902397
+    second: NPC_Future_ 4_Hubert_338
+  - first:
+      213: -3295669966236374797
+    second: NPC_Future_ 4_Hubert_339
+  - first:
+      213: 7399267492289264865
+    second: NPC_Future_ 4_Hubert_340
+  - first:
+      213: 4235349573804542605
+    second: NPC_Future_ 4_Hubert_341
+  - first:
+      213: 5660146964480039381
+    second: NPC_Future_ 4_Hubert_342
+  - first:
+      213: 5559976880310694398
+    second: NPC_Future_ 4_Hubert_343
+  - first:
+      213: -255266588189650260
+    second: NPC_Future_ 4_Hubert_344
+  - first:
+      213: 3163324723749647549
+    second: NPC_Future_ 4_Hubert_345
+  - first:
+      213: -4044338430243008674
+    second: NPC_Future_ 4_Hubert_346
+  - first:
+      213: 4572559223339507077
+    second: NPC_Future_ 4_Hubert_347
+  - first:
+      213: -519286759375950328
+    second: NPC_Future_ 4_Hubert_348
+  - first:
+      213: 2222079067779141587
+    second: NPC_Future_ 4_Hubert_349
+  - first:
+      213: -8049879937412529872
+    second: NPC_Future_ 4_Hubert_350
+  - first:
+      213: 6582094819019996797
+    second: NPC_Future_ 4_Hubert_351
+  - first:
+      213: 7949252840241275154
+    second: NPC_Future_ 4_Hubert_352
+  - first:
+      213: -5082334930202524864
+    second: NPC_Future_ 4_Hubert_353
+  - first:
+      213: -7337807720328242834
+    second: NPC_Future_ 4_Hubert_354
+  - first:
+      213: 9047834222808287103
+    second: NPC_Future_ 4_Hubert_355
+  - first:
+      213: 1073536223687634769
+    second: NPC_Future_ 4_Hubert_356
+  - first:
+      213: 1772270367733113538
+    second: NPC_Future_ 4_Hubert_357
+  - first:
+      213: -5957956463852209898
+    second: NPC_Future_ 4_Hubert_358
+  - first:
+      213: 3110611002782110264
+    second: NPC_Future_ 4_Hubert_359
+  - first:
+      213: 3585176391973634405
+    second: NPC_Future_ 4_Hubert_360
+  - first:
+      213: 4232228644781420457
+    second: NPC_Future_ 4_Hubert_361
+  - first:
+      213: 7625950925682778299
+    second: NPC_Future_ 4_Hubert_362
+  - first:
+      213: -4396557843812868866
+    second: NPC_Future_ 4_Hubert_363
+  - first:
+      213: 3102402475190272124
+    second: NPC_Future_ 4_Hubert_364
+  - first:
+      213: -8076498236573298050
+    second: NPC_Future_ 4_Hubert_365
+  - first:
+      213: 6970275694623638917
+    second: NPC_Future_ 4_Hubert_366
+  - first:
+      213: 1154488030155278222
+    second: NPC_Future_ 4_Hubert_367
+  - first:
+      213: -8561079505849741656
+    second: NPC_Future_ 4_Hubert_368
+  - first:
+      213: -91481464383934194
+    second: NPC_Future_ 4_Hubert_369
+  - first:
+      213: -4948112724689454944
+    second: NPC_Future_ 4_Hubert_370
+  - first:
+      213: 5774635168114535944
+    second: NPC_Future_ 4_Hubert_371
+  - first:
+      213: -480283626475822871
+    second: NPC_Future_ 4_Hubert_372
+  - first:
+      213: -6703291503988714843
+    second: NPC_Future_ 4_Hubert_373
+  - first:
+      213: -5517555612695185133
+    second: NPC_Future_ 4_Hubert_374
+  - first:
+      213: -8340389044783866498
+    second: NPC_Future_ 4_Hubert_375
+  - first:
+      213: 8968433262546410685
+    second: NPC_Future_ 4_Hubert_376
+  - first:
+      213: 7811794690250013352
+    second: NPC_Future_ 4_Hubert_377
+  - first:
+      213: -1745390741455375337
+    second: NPC_Future_ 4_Hubert_378
+  - first:
+      213: 73453718707558424
+    second: NPC_Future_ 4_Hubert_379
+  - first:
+      213: 6929574541135130156
+    second: NPC_Future_ 4_Hubert_380
+  - first:
+      213: 5742551146457085897
+    second: NPC_Future_ 4_Hubert_381
+  - first:
+      213: -4541818775360383276
+    second: NPC_Future_ 4_Hubert_382
+  - first:
+      213: 1976463430386091115
+    second: NPC_Future_ 4_Hubert_383
+  - first:
+      213: 8328269168910195984
+    second: NPC_Future_ 4_Hubert_384
+  - first:
+      213: -6621729494341920602
+    second: NPC_Future_ 4_Hubert_385
+  - first:
+      213: -2218760526395389226
+    second: NPC_Future_ 4_Hubert_386
+  - first:
+      213: 792542531191011912
+    second: NPC_Future_ 4_Hubert_387
+  - first:
+      213: 5056009133531749875
+    second: NPC_Future_ 4_Hubert_388
+  - first:
+      213: -3724147448547254917
+    second: NPC_Future_ 4_Hubert_389
+  - first:
+      213: -272358641169487154
+    second: NPC_Future_ 4_Hubert_390
+  - first:
+      213: -1335324354904678655
+    second: NPC_Future_ 4_Hubert_391
+  - first:
+      213: -769317520211105093
+    second: NPC_Future_ 4_Hubert_392
+  - first:
+      213: 2027778508968340920
+    second: NPC_Future_ 4_Hubert_393
+  - first:
+      213: -5328724342713593492
+    second: NPC_Future_ 4_Hubert_394
+  - first:
+      213: 1333768832741235604
+    second: NPC_Future_ 4_Hubert_395
+  - first:
+      213: -4021881582479913064
+    second: NPC_Future_ 4_Hubert_396
+  - first:
+      213: -7010567012002430844
+    second: NPC_Future_ 4_Hubert_397
+  - first:
+      213: -2811118286059199678
+    second: NPC_Future_ 4_Hubert_398
+  - first:
+      213: -1625553557558780748
+    second: NPC_Future_ 4_Hubert_399
+  - first:
+      213: 1784934963553209406
+    second: NPC_Future_ 4_Hubert_400
+  - first:
+      213: -6937834440097334979
+    second: NPC_Future_ 4_Hubert_401
+  - first:
+      213: 9067623573228253914
+    second: NPC_Future_ 4_Hubert_402
+  - first:
+      213: -3580576139271788526
+    second: NPC_Future_ 4_Hubert_403
+  - first:
+      213: -6396525104035678821
+    second: NPC_Future_ 4_Hubert_404
+  - first:
+      213: -6815806574744432073
+    second: NPC_Future_ 4_Hubert_405
+  - first:
+      213: 8971086624767265371
+    second: NPC_Future_ 4_Hubert_406
+  - first:
+      213: 5993391221005853196
+    second: NPC_Future_ 4_Hubert_407
+  - first:
+      213: -4312492400715276378
+    second: NPC_Future_ 4_Hubert_408
+  - first:
+      213: -7390499628733739438
+    second: NPC_Future_ 4_Hubert_409
+  - first:
+      213: 3094408135225453150
+    second: NPC_Future_ 4_Hubert_410
+  - first:
+      213: -7539300908746376216
+    second: NPC_Future_ 4_Hubert_411
+  - first:
+      213: 1874980887015932142
+    second: NPC_Future_ 4_Hubert_412
+  - first:
+      213: -5711796925860623904
+    second: NPC_Future_ 4_Hubert_413
+  - first:
+      213: -7380592360279886833
+    second: NPC_Future_ 4_Hubert_414
+  - first:
+      213: -7674015327627005667
+    second: NPC_Future_ 4_Hubert_415
+  - first:
+      213: -7899489417175603336
+    second: NPC_Future_ 4_Hubert_416
+  - first:
+      213: -935203342523212840
+    second: NPC_Future_ 4_Hubert_417
+  - first:
+      213: 550520487754654664
+    second: NPC_Future_ 4_Hubert_418
+  - first:
+      213: 4359488565990130854
+    second: NPC_Future_ 4_Hubert_419
+  - first:
+      213: 3291953585369313633
+    second: NPC_Future_ 4_Hubert_420
+  - first:
+      213: 6445125109727125044
+    second: NPC_Future_ 4_Hubert_421
+  - first:
+      213: 3060837229807392120
+    second: NPC_Future_ 4_Hubert_422
+  - first:
+      213: -971221617507652891
+    second: NPC_Future_ 4_Hubert_423
+  - first:
+      213: 5743802621166515038
+    second: NPC_Future_ 4_Hubert_424
+  - first:
+      213: 7696764773784915952
+    second: NPC_Future_ 4_Hubert_425
+  - first:
+      213: -8210338077343387317
+    second: NPC_Future_ 4_Hubert_426
+  - first:
+      213: 3763284866216062799
+    second: NPC_Future_ 4_Hubert_427
+  - first:
+      213: 3101703620904958104
+    second: NPC_Future_ 4_Hubert_428
+  - first:
+      213: -6280577879851145649
+    second: NPC_Future_ 4_Hubert_429
+  - first:
+      213: 3581211747716396651
+    second: NPC_Future_ 4_Hubert_430
+  - first:
+      213: -62284078910416100
+    second: NPC_Future_ 4_Hubert_431
+  - first:
+      213: -3147599175358858333
+    second: NPC_Future_ 4_Hubert_432
+  - first:
+      213: 8591499301063917260
+    second: NPC_Future_ 4_Hubert_433
+  - first:
+      213: -8956479382224515356
+    second: NPC_Future_ 4_Hubert_434
+  - first:
+      213: 1404571891194910363
+    second: NPC_Future_ 4_Hubert_435
+  - first:
+      213: -8607034870572079388
+    second: NPC_Future_ 4_Hubert_436
+  - first:
+      213: 8101471989513465915
+    second: NPC_Future_ 4_Hubert_437
+  - first:
+      213: 4765040512508453101
+    second: NPC_Future_ 4_Hubert_438
+  - first:
+      213: 5183901505415122509
+    second: NPC_Future_ 4_Hubert_439
+  - first:
+      213: -5845544159629435563
+    second: NPC_Future_ 4_Hubert_440
+  - first:
+      213: -3518226111860471963
+    second: NPC_Future_ 4_Hubert_441
+  - first:
+      213: -7206477120429062826
+    second: NPC_Future_ 4_Hubert_442
+  - first:
+      213: -1534739077092230818
+    second: NPC_Future_ 4_Hubert_443
+  - first:
+      213: 5573386152394219579
+    second: NPC_Future_ 4_Hubert_444
+  - first:
+      213: 1468129591318230300
+    second: NPC_Future_ 4_Hubert_445
+  - first:
+      213: 1506674106180121358
+    second: NPC_Future_ 4_Hubert_446
+  - first:
+      213: -3996117580784837230
+    second: NPC_Future_ 4_Hubert_447
+  - first:
+      213: -5202958378038074849
+    second: NPC_Future_ 4_Hubert_448
+  - first:
+      213: 6448022808584946769
+    second: NPC_Future_ 4_Hubert_449
+  - first:
+      213: -2020553105134315055
+    second: NPC_Future_ 4_Hubert_450
+  - first:
+      213: 8251631911672135401
+    second: NPC_Future_ 4_Hubert_451
+  - first:
+      213: 4460728863268993311
+    second: NPC_Future_ 4_Hubert_452
+  - first:
+      213: 1078681134045559814
+    second: NPC_Future_ 4_Hubert_453
+  - first:
+      213: -4213256507134918783
+    second: NPC_Future_ 4_Hubert_454
+  - first:
+      213: 6709395888649905396
+    second: NPC_Future_ 4_Hubert_455
+  - first:
+      213: -4941032576563484234
+    second: NPC_Future_ 4_Hubert_456
+  - first:
+      213: -4663924467575556329
+    second: NPC_Future_ 4_Hubert_457
+  - first:
+      213: -7654279725655182112
+    second: NPC_Future_ 4_Hubert_458
+  - first:
+      213: -7859968623853377628
+    second: NPC_Future_ 4_Hubert_459
+  - first:
+      213: 7748193462436853332
+    second: NPC_Future_ 4_Hubert_460
+  - first:
+      213: -7879774692383092384
+    second: NPC_Future_ 4_Hubert_461
+  - first:
+      213: -4593144874903316949
+    second: NPC_Future_ 4_Hubert_462
+  - first:
+      213: -6843618241149782261
+    second: NPC_Future_ 4_Hubert_463
+  - first:
+      213: 4083495046129117002
+    second: NPC_Future_ 4_Hubert_464
+  - first:
+      213: 6359105900242162499
+    second: NPC_Future_ 4_Hubert_465
+  - first:
+      213: 7141927271206544325
+    second: NPC_Future_ 4_Hubert_466
+  - first:
+      213: -8998000616258602221
+    second: NPC_Future_ 4_Hubert_467
+  - first:
+      213: 5437418545124503826
+    second: NPC_Future_ 4_Hubert_468
+  - first:
+      213: -5078343459926880184
+    second: NPC_Future_ 4_Hubert_469
+  - first:
+      213: -6083376010218009066
+    second: NPC_Future_ 4_Hubert_470
+  - first:
+      213: -2455393670708112869
+    second: NPC_Future_ 4_Hubert_471
+  - first:
+      213: 8118064617419035687
+    second: NPC_Future_ 4_Hubert_472
+  - first:
+      213: 3172388021540907472
+    second: NPC_Future_ 4_Hubert_473
+  - first:
+      213: -5591034702626760081
+    second: NPC_Future_ 4_Hubert_474
+  - first:
+      213: 181910353128006189
+    second: NPC_Future_ 4_Hubert_475
+  - first:
+      213: -6143857976727462588
+    second: NPC_Future_ 4_Hubert_476
+  - first:
+      213: -6217052805788989776
+    second: NPC_Future_ 4_Hubert_477
+  - first:
+      213: -2059912390867141831
+    second: NPC_Future_ 4_Hubert_478
+  - first:
+      213: 5760419815054697105
+    second: NPC_Future_ 4_Hubert_479
+  - first:
+      213: -8414550580721500517
+    second: NPC_Future_ 4_Hubert_480
+  - first:
+      213: -6470025674657188439
+    second: NPC_Future_ 4_Hubert_481
+  - first:
+      213: -4013108873981610493
+    second: NPC_Future_ 4_Hubert_482
+  - first:
+      213: -1350015610007695893
+    second: NPC_Future_ 4_Hubert_483
+  - first:
+      213: 5468254369303093311
+    second: NPC_Future_ 4_Hubert_484
+  - first:
+      213: -6287727045881607372
+    second: NPC_Future_ 4_Hubert_485
+  - first:
+      213: -3528291128638010533
+    second: NPC_Future_ 4_Hubert_486
+  - first:
+      213: -4153174605032357339
+    second: NPC_Future_ 4_Hubert_487
+  - first:
+      213: -80181223733333094
+    second: NPC_Future_ 4_Hubert_488
+  - first:
+      213: -8944349259357671888
+    second: NPC_Future_ 4_Hubert_489
+  - first:
+      213: -8839483314572105256
+    second: NPC_Future_ 4_Hubert_490
+  - first:
+      213: -4823086470144381021
+    second: NPC_Future_ 4_Hubert_491
+  - first:
+      213: 2994778128633061688
+    second: NPC_Future_ 4_Hubert_492
+  - first:
+      213: -8544882829468079150
+    second: NPC_Future_ 4_Hubert_493
+  - first:
+      213: 7251092060151061646
+    second: NPC_Future_ 4_Hubert_494
+  - first:
+      213: 5379832165840530389
+    second: NPC_Future_ 4_Hubert_495
+  - first:
+      213: -8972000777283391739
+    second: NPC_Future_ 4_Hubert_496
+  - first:
+      213: -7968583662841419094
+    second: NPC_Future_ 4_Hubert_497
+  - first:
+      213: 7104944311307067689
+    second: NPC_Future_ 4_Hubert_498
+  - first:
+      213: -1720658630261577131
+    second: NPC_Future_ 4_Hubert_499
+  - first:
+      213: 175803556539312189
+    second: NPC_Future_ 4_Hubert_500
+  - first:
+      213: -3989377118028666090
+    second: NPC_Future_ 4_Hubert_501
+  - first:
+      213: -3812835219987863693
+    second: NPC_Future_ 4_Hubert_502
+  - first:
+      213: -2725326594761220450
+    second: NPC_Future_ 4_Hubert_503
+  - first:
+      213: 3350695741116962888
+    second: NPC_Future_ 4_Hubert_504
+  - first:
+      213: 7249730785491147844
+    second: NPC_Future_ 4_Hubert_505
+  - first:
+      213: 4737816648919956813
+    second: NPC_Future_ 4_Hubert_506
+  - first:
+      213: -4593998543488308409
+    second: NPC_Future_ 4_Hubert_507
+  - first:
+      213: 1765301547918453099
+    second: NPC_Future_ 4_Hubert_508
+  - first:
+      213: 8665405584989479481
+    second: NPC_Future_ 4_Hubert_509
+  - first:
+      213: -4240181706757287459
+    second: NPC_Future_ 4_Hubert_510
+  - first:
+      213: 6260500844140753864
+    second: NPC_Future_ 4_Hubert_511
+  - first:
+      213: 9028897336888173971
+    second: NPC_Future_ 4_Hubert_512
+  - first:
+      213: 1529225728485988439
+    second: NPC_Future_ 4_Hubert_513
+  - first:
+      213: -6219803242987926982
+    second: NPC_Future_ 4_Hubert_514
+  - first:
+      213: -7629034298219855774
+    second: NPC_Future_ 4_Hubert_515
+  - first:
+      213: 5656435137346162098
+    second: NPC_Future_ 4_Hubert_516
+  - first:
+      213: 1783938145561126444
+    second: NPC_Future_ 4_Hubert_517
+  - first:
+      213: -149705139598144406
+    second: NPC_Future_ 4_Hubert_518
+  - first:
+      213: 4977648498143558217
+    second: NPC_Future_ 4_Hubert_519
+  - first:
+      213: -2277786352371522455
+    second: NPC_Future_ 4_Hubert_520
+  - first:
+      213: -7479927206304956611
+    second: NPC_Future_ 4_Hubert_521
+  - first:
+      213: -1807324963972937341
+    second: NPC_Future_ 4_Hubert_522
+  - first:
+      213: 2551910895181664307
+    second: NPC_Future_ 4_Hubert_523
+  - first:
+      213: 8251561464196386180
+    second: NPC_Future_ 4_Hubert_524
+  - first:
+      213: 6345869839490333503
+    second: NPC_Future_ 4_Hubert_525
+  - first:
+      213: 8988391687112149917
+    second: NPC_Future_ 4_Hubert_526
+  - first:
+      213: -6221678058211462135
+    second: NPC_Future_ 4_Hubert_527
+  - first:
+      213: -576947627637857867
+    second: NPC_Future_ 4_Hubert_528
+  - first:
+      213: 1135402273298748852
+    second: NPC_Future_ 4_Hubert_529
+  - first:
+      213: 1635020787003698825
+    second: NPC_Future_ 4_Hubert_530
+  - first:
+      213: 5170597919536686613
+    second: NPC_Future_ 4_Hubert_531
+  - first:
+      213: -7192723298115477896
+    second: NPC_Future_ 4_Hubert_532
+  - first:
+      213: -698186031601672511
+    second: NPC_Future_ 4_Hubert_533
+  - first:
+      213: 2484120126208130651
+    second: NPC_Future_ 4_Hubert_534
+  - first:
+      213: 8450891957219337528
+    second: NPC_Future_ 4_Hubert_535
+  - first:
+      213: 6674534639239193057
+    second: NPC_Future_ 4_Hubert_536
+  - first:
+      213: -9051966017228075917
+    second: NPC_Future_ 4_Hubert_537
+  - first:
+      213: 8871449593587122271
+    second: NPC_Future_ 4_Hubert_538
+  - first:
+      213: 1451379375009342248
+    second: NPC_Future_ 4_Hubert_539
+  - first:
+      213: 8269527988633578488
+    second: NPC_Future_ 4_Hubert_540
+  - first:
+      213: 3790170349928811710
+    second: NPC_Future_ 4_Hubert_541
+  - first:
+      213: 2647781119577207412
+    second: NPC_Future_ 4_Hubert_542
+  - first:
+      213: 1754652962748954985
+    second: NPC_Future_ 4_Hubert_543
+  - first:
+      213: -2350524139124156109
+    second: NPC_Future_ 4_Hubert_544
+  - first:
+      213: 5305238286259725893
+    second: NPC_Future_ 4_Hubert_545
+  - first:
+      213: -3551561931661869804
+    second: NPC_Future_ 4_Hubert_546
+  - first:
+      213: 2823734815316961573
+    second: NPC_Future_ 4_Hubert_547
+  - first:
+      213: 2078651554105379598
+    second: NPC_Future_ 4_Hubert_548
+  - first:
+      213: -9150366506824816048
+    second: NPC_Future_ 4_Hubert_549
+  - first:
+      213: -1524220205257369014
+    second: NPC_Future_ 4_Hubert_550
+  - first:
+      213: -6804806751641280494
+    second: NPC_Future_ 4_Hubert_551
+  - first:
+      213: 3934935413113851803
+    second: NPC_Future_ 4_Hubert_552
+  - first:
+      213: 4069611749581389138
+    second: NPC_Future_ 4_Hubert_553
+  - first:
+      213: 8004001530887163485
+    second: NPC_Future_ 4_Hubert_554
+  - first:
+      213: -1747748016341775495
+    second: NPC_Future_ 4_Hubert_555
+  - first:
+      213: 1388339320924280313
+    second: NPC_Future_ 4_Hubert_556
+  - first:
+      213: -8917160895652359793
+    second: NPC_Future_ 4_Hubert_557
+  - first:
+      213: -8805291047101561271
+    second: NPC_Future_ 4_Hubert_558
+  - first:
+      213: 200672036799537082
+    second: NPC_Future_ 4_Hubert_559
+  - first:
+      213: -4188558303988591536
+    second: NPC_Future_ 4_Hubert_560
+  - first:
+      213: -6328359565174020987
+    second: NPC_Future_ 4_Hubert_561
+  - first:
+      213: -5555855679096107654
+    second: NPC_Future_ 4_Hubert_562
+  - first:
+      213: -4829759169352680163
+    second: NPC_Future_ 4_Hubert_563
+  - first:
+      213: -1578010606251665067
+    second: NPC_Future_ 4_Hubert_564
+  - first:
+      213: 4499207497557644900
+    second: NPC_Future_ 4_Hubert_565
+  - first:
+      213: 1144252091711691364
+    second: NPC_Future_ 4_Hubert_566
+  - first:
+      213: -4418920042266424483
+    second: NPC_Future_ 4_Hubert_567
+  - first:
+      213: 2591478770395896079
+    second: NPC_Future_ 4_Hubert_568
+  - first:
+      213: -3598947963292335461
+    second: NPC_Future_ 4_Hubert_569
+  - first:
+      213: -5383328856390020897
+    second: NPC_Future_ 4_Hubert_570
+  - first:
+      213: 1705035929576295541
+    second: NPC_Future_ 4_Hubert_571
+  - first:
+      213: -2673391463212174443
+    second: NPC_Future_ 4_Hubert_572
+  - first:
+      213: 6525414311878632230
+    second: NPC_Future_ 4_Hubert_573
+  - first:
+      213: -5611649409510310329
+    second: NPC_Future_ 4_Hubert_574
+  - first:
+      213: -7145653960331815767
+    second: NPC_Future_ 4_Hubert_575
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -46,7 +1774,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +1796,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -80,7 +1808,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -92,7 +1820,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -104,7 +1832,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,7 +1841,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: NPC_Future_ 4_Hubert_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 416
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b685d9bdbabdaa600800000000000000
+      internalID: 480437841438791787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Future_ 4_Hubert_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 416
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c98530da4fc77670800000000000000
+      internalID: 8536519538931763652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
