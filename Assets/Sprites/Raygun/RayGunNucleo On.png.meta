@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: b891705a4c14b43e1ad68804cfad6cf6
+guid: 5006b71f9e67b46f180b979160668971
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2090092725771684605
-    second: Kyber crystal_0
+      213: 580906678397872591
+    second: RayGunNucleo On_0
   - first:
-      213: 4342019065935783998
-    second: Kyber crystal_1
+      213: -4658306613694061840
+    second: RayGunNucleo On_1
+  - first:
+      213: -4505067817055913234
+    second: RayGunNucleo On_2
+  - first:
+      213: -8681666186344761822
+    second: RayGunNucleo On_3
+  - first:
+      213: -4320757404602554781
+    second: RayGunNucleo On_4
+  - first:
+      213: 1194320824597665330
+    second: RayGunNucleo On_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -38,7 +50,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -74,7 +86,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -86,7 +98,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -98,7 +110,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,7 +122,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,7 +133,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kyber crystal_0
+      name: RayGunNucleo On_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ae85db8bcf0800800000000000000
+      internalID: 580906678397872591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayGunNucleo On_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a9ebc0de5a5fb0800000000000000
+      internalID: -4658306613694061840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayGunNucleo On_2
       rect:
         serializedVersion: 2
         x: 0
@@ -135,14 +189,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfacf33a240810d10800000000000000
-      internalID: 2090092725771684605
+      spriteID: eea765370b8ca71c0800000000000000
+      internalID: -4505067817055913234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kyber crystal_1
+      name: RayGunNucleo On_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267668d996848780800000000000000
+      internalID: -8681666186344761822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayGunNucleo On_4
       rect:
         serializedVersion: 2
         x: 0
@@ -156,8 +231,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e386311e553f14c30800000000000000
-      internalID: 4342019065935783998
+      spriteID: 366a60a68069904c0800000000000000
+      internalID: -4320757404602554781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RayGunNucleo On_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236def15674139010800000000000000
+      internalID: 1194320824597665330
       vertices: []
       indices: 
       edges: []
