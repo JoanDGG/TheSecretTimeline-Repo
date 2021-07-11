@@ -6,6 +6,8 @@ public class EnemyFollow : MonoBehaviour
 {
 
     new private Rigidbody2D rigidbody;
+    private Animator anim;
+
     private GameObject Enemy;
     public bool Seen;
     private float movHorizontal;
@@ -17,6 +19,7 @@ public class EnemyFollow : MonoBehaviour
     private float PlayerPositionY;
     private float EnemyPositionX;
     private float EnemyPositionY;
+    Vector2 lookDirection = new Vector2(1, 0);
 
     public float velocity = 1.5f;
 
@@ -25,6 +28,7 @@ public class EnemyFollow : MonoBehaviour
     {
         Enemy = this.transform.parent.gameObject;
         rigidbody = Enemy.GetComponent<Rigidbody2D>();
+        anim = Enemy.GetComponent<Animator>();
         OriginX = Enemy.transform.position.x;
         OriginY = Enemy.transform.position.y;
         Seen = false;
@@ -62,7 +66,21 @@ public class EnemyFollow : MonoBehaviour
         else if(!Seen)
         {
             rigidbody.velocity = new Vector2(0, 0);
+            movHorizontal = 0;
+            movVertical = 0;
         }
+
+        Vector2 move = new Vector2(movHorizontal, movVertical);
+
+        if (!Mathf.Approximately(move.x, 0.0f) || !Mathf.Approximately(move.y, 0.0f))
+        {
+            lookDirection.Set(move.x, move.y);
+            lookDirection.Normalize();
+        }
+
+        anim.SetFloat("Look X", lookDirection.x);
+        anim.SetFloat("Look Y", lookDirection.y);
+        anim.SetFloat("Speed", move.magnitude);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
