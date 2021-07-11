@@ -8,7 +8,12 @@ public class Menu : MonoBehaviour
     public void Play()
     {
         // Cambiar a la escena 'EscenaTransicion'
-        //SceneManager.LoadScene("Escena");
+        SceneManager.LoadScene("Intro");
+    }
+
+    public void Begin()
+    {
+        SceneManager.LoadScene("Apocalipsis");
     }
 
     public void HowTo()

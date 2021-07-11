@@ -639,6 +639,7 @@ GameObject:
   - component: {fileID: 163638551}
   - component: {fileID: 163638554}
   - component: {fileID: 163638555}
+  - component: {fileID: 163638556}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -762,6 +763,19 @@ MonoBehaviour:
   maxYandX: {x: 50, y: 20.8}
   minYandX: {x: -5, y: -6.5}
   target: {fileID: 539732498}
+--- !u!114 &163638556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 163638550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de7244fe8edd1462eb55e7d0729c0faf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanvasMenu: {fileID: 318010563}
 --- !u!1001 &318010562
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -859,6 +873,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44b057e70f5164b3db05c9b403aff105, type: 3}
+--- !u!1 &318010563 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8451669822002349613, guid: 44b057e70f5164b3db05c9b403aff105, type: 3}
+  m_PrefabInstance: {fileID: 318010562}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &366812147
 GameObject:
   m_ObjectHideFlags: 0
