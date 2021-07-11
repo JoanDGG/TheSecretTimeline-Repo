@@ -28,6 +28,10 @@ public class NPCDialogue : MonoBehaviour
                 || (GameManager.scene == 8 && !GameManager.story5 && gameObject.name == "Amy"))
             {
                 Talk.GetComponent<DialogueTrigger>().dialogue = dialogue[0];
+                if(!GameManager.story2 && gameObject.name == "Martin")
+                {
+                    gameObject.transform.GetChild(0).gameObject.SetActive(true);
+                }
             }
             else
             {

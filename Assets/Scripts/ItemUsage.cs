@@ -5,22 +5,9 @@ using UnityEngine.UI;
 
 public class ItemUsage : MonoBehaviour
 {
-
     private int Number;
     private GameObject Player;
     private GameObject inventoryItem;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     public void UseItem(int Number)
     {

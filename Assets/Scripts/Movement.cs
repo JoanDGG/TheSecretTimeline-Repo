@@ -20,6 +20,13 @@ public class Movement : MonoBehaviour
         anim = GetComponent<Animator>();
         GameObject.Find("TalkButton").SetActive(false);
         LoadLocationPlayer();
+        for (int i = 0; i < 3; i++)
+        {
+            if (GameManager.Inventory[i] != null)
+            {
+                GameObject Item = (GameObject)Instantiate(GameManager.Inventory[i], new Vector3(transform.position.x, transform.position.y + 1 + i, 0), Quaternion.identity);
+            }
+        }
     }
 
     // Update is called once per frame

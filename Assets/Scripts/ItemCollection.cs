@@ -11,12 +11,6 @@ public class ItemCollection : MonoBehaviour
     private GameObject Item;
     private bool pickup;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -66,6 +60,7 @@ public class ItemCollection : MonoBehaviour
                     if (GameManager.Inventory[i] == null)
                     {
                         GameManager.Inventory[i] = Item;
+                        print(GameManager.Inventory[i].name);
                         pickup = true;
                         break;
                     }
@@ -76,6 +71,13 @@ public class ItemCollection : MonoBehaviour
                 instruction.text = "You picked up " + Item.name;
                 print("You picked up " + Item.name);
                 Item.SetActive(false);
+                for (int i = 0; i < 3; i++)
+                {
+                    if (GameManager.Inventory[i] != null)
+                    {
+                        print(GameManager.Inventory[i].name);
+                    }
+                }
             }
             else
             {

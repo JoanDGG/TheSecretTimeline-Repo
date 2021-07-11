@@ -14,6 +14,8 @@ public class InventoryUpdate : MonoBehaviour
     {
         currentSprite = gameObject.GetComponent<Image>().sprite;
         Number = int.Parse(gameObject.name.Substring(gameObject.name.Length - 1)) - 1;
+        print(Number);
+        print(currentSprite);
     }
 
     // Update is called once per frame
@@ -21,7 +23,10 @@ public class InventoryUpdate : MonoBehaviour
     {
         if (GameManager.Inventory[Number] != null)
         {
+            //print(GameManager.Inventory[Number].name);
+            //itemSprite = Resources.Load<Sprite>(GameManager.Inventory[Number].name);
             itemSprite = GameManager.Inventory[Number].GetComponent<SpriteRenderer>().sprite;
+
             if (currentSprite != itemSprite)
             {
                 gameObject.GetComponent<Image>().sprite = itemSprite;
