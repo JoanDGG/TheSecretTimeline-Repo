@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
          WWII           = 6
          Covid          = 7
          Futurama       = 8
+         Prehistoria 2  = 9
          */
     public static bool blockMovement = false;
     public static GameObject[] Inventory = new GameObject[3];
