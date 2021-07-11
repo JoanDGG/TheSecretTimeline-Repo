@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 2f4f1d9f32de64a1591dace442e6a8fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8776997313562646958
+    second: Prehistoric 2_0
+  - first:
+      213: -4736572337056924135
+    second: Prehistoric 2_1
+  - first:
+      213: 373486837548113890
+    second: Prehistoric 2_2
+  - first:
+      213: 1612642824485984502
+    second: Prehistoric 2_3
+  - first:
+      213: 8267837446031090700
+    second: Prehistoric 2_4
+  - first:
+      213: -1757569515178585971
+    second: Prehistoric 2_5
+  - first:
+      213: -291057967383754116
+    second: Prehistoric 2_6
+  - first:
+      213: -8302073603463023928
+    second: Prehistoric 2_7
+  - first:
+      213: -6582080609444446003
+    second: Prehistoric 2_8
+  - first:
+      213: -4368167560516691896
+    second: Prehistoric 2_9
+  - first:
+      213: -3429740101966028915
+    second: Prehistoric 2_10
+  - first:
+      213: -179449233570683220
+    second: Prehistoric 2_11
+  - first:
+      213: -6097306367815841065
+    second: Prehistoric 2_12
+  - first:
+      213: 199862414743514879
+    second: Prehistoric 2_13
+  - first:
+      213: 1404234057966066151
+    second: Prehistoric 2_14
+  - first:
+      213: 8660155775080207784
+    second: Prehistoric 2_15
+  - first:
+      213: 1452487518545700493
+    second: Prehistoric 2_16
+  - first:
+      213: 884278576967066012
+    second: Prehistoric 2_17
+  - first:
+      213: -7362424922566147407
+    second: Prehistoric 2_18
+  - first:
+      213: -7779732240721862642
+    second: Prehistoric 2_19
+  - first:
+      213: -269919326767305461
+    second: Prehistoric 2_20
+  - first:
+      213: 2922805163571673789
+    second: Prehistoric 2_21
+  - first:
+      213: -9087810237839925287
+    second: Prehistoric 2_22
+  - first:
+      213: 8887178989725901558
+    second: Prehistoric 2_23
+  - first:
+      213: 1567067538906560523
+    second: Prehistoric 2_24
+  - first:
+      213: -2509447835233401939
+    second: Prehistoric 2_25
+  - first:
+      213: 8339893985579811896
+    second: Prehistoric 2_26
+  - first:
+      213: 5326254590788920070
+    second: Prehistoric 2_27
+  - first:
+      213: 3040252622205940722
+    second: Prehistoric 2_28
+  - first:
+      213: 6058692322444136721
+    second: Prehistoric 2_29
+  - first:
+      213: -7883357106016235846
+    second: Prehistoric 2_30
+  - first:
+      213: 299844542153150070
+    second: Prehistoric 2_31
+  - first:
+      213: 1332118342850602541
+    second: Prehistoric 2_32
+  - first:
+      213: 3227714254181818693
+    second: Prehistoric 2_33
+  - first:
+      213: 1985333615806201767
+    second: Prehistoric 2_34
+  - first:
+      213: 9125419117789004138
+    second: Prehistoric 2_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 580
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prehistoric 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566a822277d13680800000000000000
+      internalID: -8776997313562646958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3040
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb7cc0e80544eb0800000000000000
+      internalID: -4736572337056924135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_2
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 3040
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd658cc44ee2500800000000000000
+      internalID: 373486837548113890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_3
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3040
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d11fca12416610800000000000000
+      internalID: 1612642824485984502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_4
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 3040
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c042b5f2a524db270800000000000000
+      internalID: 8267837446031090700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_5
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3040
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8099b386dbdb97e0800000000000000
+      internalID: -1757569515178585971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4b0d1254f5fbf0800000000000000
+      internalID: -291057967383754116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2432
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2707e3b0c19cc80800000000000000
+      internalID: -8302073603463023928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2432
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c31f1f80c7a4a0800000000000000
+      internalID: -6582080609444446003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_9
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2432
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848940c4fb62163c0800000000000000
+      internalID: -4368167560516691896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_10
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2432
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f176e7c8d1760d0800000000000000
+      internalID: -3429740101966028915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_11
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2432
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6adc17fd7728df0800000000000000
+      internalID: -179449233570683220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0c93d924026ba0800000000000000
+      internalID: -6097306367815841065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1824
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe2dbaaecd06c200800000000000000
+      internalID: 199862414743514879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_14
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1824
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9929e8f67dc7310800000000000000
+      internalID: 1404234057966066151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_15
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1824
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a514314bcd0f2870800000000000000
+      internalID: 8660155775080207784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_16
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1824
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ea97d3b5482410800000000000000
+      internalID: 1452487518545700493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_17
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1824
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912c9e3ea6954c00800000000000000
+      internalID: 884278576967066012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b246fc6a8963d990800000000000000
+      internalID: -7362424922566147407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1216
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ae10feb6d80490800000000000000
+      internalID: -7779732240721862642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_20
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1216
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da50a6dcd014cf0800000000000000
+      internalID: -269919326767305461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_21
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1216
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbafd528fc3ef8820800000000000000
+      internalID: 2922805163571673789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_22
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1216
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df946becbc91e180800000000000000
+      internalID: -9087810237839925287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_23
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1216
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26de1743a955b70800000000000000
+      internalID: 8887178989725901558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08329bbf975fb510800000000000000
+      internalID: 1567067538906560523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da34a8e4d76ac2dd0800000000000000
+      internalID: -2509447835233401939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_26
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 608
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834c6eaa4614db370800000000000000
+      internalID: 8339893985579811896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_27
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 608
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6036443a458aae940800000000000000
+      internalID: 5326254590788920070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_28
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 608
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f806e6a5213a20800000000000000
+      internalID: 3040252622205940722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_29
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 608
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1115ba2219cc41450800000000000000
+      internalID: 6058692322444136721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec95ada70b89290800000000000000
+      internalID: -7883357106016235846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec0eeb503492400800000000000000
+      internalID: 299844542153150070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_32
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2664603392ac7210800000000000000
+      internalID: 1332118342850602541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_33
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541e8f453052bcc20800000000000000
+      internalID: 3227714254181818693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_34
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af35c2a7625d8b10800000000000000
+      internalID: 1985333615806201767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prehistoric 2_35
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 608
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a614f5ec65004ae70800000000000000
+      internalID: 9125419117789004138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
