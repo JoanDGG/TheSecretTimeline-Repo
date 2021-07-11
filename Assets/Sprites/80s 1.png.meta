@@ -1,79 +1,97 @@
 fileFormatVersion: 2
-guid: 503b9f319dc72420989526c65cfa1391
+guid: 1203caaf1db05fc43913b8c38ac8fd75
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3261844442408850257
-    second: Arcade_0
+      213: 2246352483236599232
+    second: 80s 1_0
   - first:
-      213: 4404637733703560108
-    second: Arcade_1
+      213: 4585735951407603306
+    second: 80s 1_1
   - first:
-      213: 5406990004630819435
-    second: Arcade_2
+      213: 1683788204204577387
+    second: 80s 1_2
   - first:
-      213: -7598122343464260247
-    second: Arcade_3
+      213: 7653033858147936562
+    second: 80s 1_3
   - first:
-      213: -382532613773318572
-    second: Arcade_4
+      213: -2892666543832802900
+    second: 80s 1_4
   - first:
-      213: -6515454995209720493
-    second: Arcade_5
+      213: 6813888797570686943
+    second: 80s 1_5
   - first:
-      213: -4744982590391927289
-    second: Arcade_6
+      213: -3558756584180463235
+    second: 80s 1_6
   - first:
-      213: -2633746157983995563
-    second: Arcade_7
+      213: 1251437471490231869
+    second: 80s 1_7
   - first:
-      213: 7481464013494142340
-    second: Arcade_8
+      213: -3172071592331877206
+    second: 80s 1_8
   - first:
-      213: -7744278349896750063
-    second: Arcade_9
+      213: -3952788288364436624
+    second: 80s 1_9
   - first:
-      213: -3178664234282441091
-    second: Arcade_10
+      213: -6108513427241900910
+    second: 80s 1_10
   - first:
-      213: 9165845161391799516
-    second: Arcade_11
+      213: -791360790658674171
+    second: 80s 1_11
   - first:
-      213: 4443480704581340024
-    second: Arcade_12
+      213: 4238861955401689003
+    second: 80s 1_12
   - first:
-      213: -576133717158056507
-    second: Arcade_13
+      213: 331802951729022800
+    second: 80s 1_13
   - first:
-      213: -229366837626339416
-    second: Arcade_14
+      213: 9040137445168633984
+    second: 80s 1_14
   - first:
-      213: -732762952780781371
-    second: Arcade_15
+      213: -4506072605440283370
+    second: 80s 1_15
   - first:
-      213: 4361387235523875115
-    second: Arcade_16
+      213: -3461877257031371890
+    second: 80s 1_16
   - first:
-      213: 6582599108210795573
-    second: Arcade_17
+      213: -3767909701942171433
+    second: 80s 1_17
   - first:
-      213: -1278164955396496540
-    second: Arcade_18
+      213: 7460082407822901482
+    second: 80s 1_18
   - first:
-      213: -3928893826607685976
-    second: Arcade_19
+      213: -9124480944044478667
+    second: 80s 1_19
   - first:
-      213: 4662834682578761221
-    second: Arcade_20
+      213: -3484586809353663408
+    second: 80s 1_20
   - first:
-      213: 3000415396066120328
-    second: Arcade_21
+      213: 863873976876503681
+    second: 80s 1_21
   - first:
-      213: -8213630660292032635
-    second: Arcade_22
+      213: -3860027851564597384
+    second: 80s 1_22
   - first:
-      213: 574377536754593986
-    second: Arcade_23
+      213: -5132248962842764554
+    second: 80s 1_23
+  - first:
+      213: -6578703631765372519
+    second: 80s 1_24
+  - first:
+      213: 3765537751543360496
+    second: 80s 1_25
+  - first:
+      213: -348161243815585603
+    second: 80s 1_26
+  - first:
+      213: 8056111906012617196
+    second: 80s 1_27
+  - first:
+      213: 1273924176444842344
+    second: 80s 1_28
+  - first:
+      213: 6907579793703432955
+    second: 80s 1_29
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -118,7 +136,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,29 +189,17 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arcade_0
+      name: 80s 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
-        width: 32
-        height: 64
+        y: 536.6667
+        width: 107.2
+        height: 107.333336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +207,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1539c560d36644d20800000000000000
-      internalID: 3261844442408850257
+      spriteID: 0c552ab8ea5ac2f10800000000000000
+      internalID: 2246352483236599232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_1
+      name: 80s 1_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 64
+        x: 107
+        y: 536.6667
+        width: 107.2
+        height: 107.333336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,20 +228,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cabaea99eaa602d30800000000000000
-      internalID: 4404637733703560108
+      spriteID: a6e53613d8ec3af30800000000000000
+      internalID: 4585735951407603306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_2
+      name: 80s 1_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 64
+        x: 214
+        y: 536.6667
+        width: 107.2
+        height: 107.333336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +249,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b629b1203cc790b40800000000000000
-      internalID: 5406990004630819435
+      spriteID: b625b9c53740e5710800000000000000
+      internalID: 1683788204204577387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_3
+      name: 80s 1_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 192
-        width: 32
-        height: 64
+        x: 321
+        y: 536.6667
+        width: 107.2
+        height: 107.333336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,20 +270,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96daad53cfb0e8690800000000000000
-      internalID: -7598122343464260247
+      spriteID: 239e1f81fb9053a60800000000000000
+      internalID: 7653033858147936562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_4
+      name: 80s 1_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 32
-        height: 64
+        x: 428
+        y: 536.6667
+        width: 107.2
+        height: 107.333336
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,62 +291,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4562a015d98f0baf0800000000000000
-      internalID: -382532613773318572
+      spriteID: ca95039ba1f2bd7d0800000000000000
+      internalID: -2892666543832802900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 192
-        width: 32
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35dea74c3347495a0800000000000000
-      internalID: -6515454995209720493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade_6
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 192
-        width: 32
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70eb64a597f662eb0800000000000000
-      internalID: -4744982590391927289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade_7
+      name: 80s 1_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 32
-        height: 64
+        y: 429
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,20 +312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55960d0d2dd037bd0800000000000000
-      internalID: -2633746157983995563
+      spriteID: fdfd63682cbcf8e50800000000000000
+      internalID: 6813888797570686943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_8
+      name: 80s 1_6
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 64
+        x: 107
+        y: 429
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,20 +333,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 485cf2cb1ef73d760800000000000000
-      internalID: 7481464013494142340
+      spriteID: d7947d5edb1cc9ec0800000000000000
+      internalID: -3558756584180463235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_9
+      name: 80s 1_7
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 64
+        x: 214
+        y: 429
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,20 +354,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11ce7a82fdbc68490800000000000000
-      internalID: -7744278349896750063
+      spriteID: d3ec9caffbffd5110800000000000000
+      internalID: 1251437471490231869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_10
+      name: 80s 1_8
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 64
+        x: 321
+        y: 429
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,20 +375,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d762b5f58bd13e3d0800000000000000
-      internalID: -3178664234282441091
+      spriteID: aa463f071b98af3d0800000000000000
+      internalID: -3172071592331877206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_11
+      name: 80s 1_9
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 64
+        x: 428
+        y: 429
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,62 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdcbdfe8c9f933f70800000000000000
-      internalID: 9165845161391799516
+      spriteID: 073a6b79effd429c0800000000000000
+      internalID: -3952788288364436624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_12
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87b8fd2882a6aad30800000000000000
-      internalID: 4443480704581340024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade_13
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 32
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cd2badcf692108f0800000000000000
-      internalID: -576133717158056507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade_14
+      name: 80s 1_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 32
-        height: 64
+        y: 322
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,20 +417,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aff600931021dcf0800000000000000
-      internalID: -229366837626339416
+      spriteID: 294ea87f6633a3ba0800000000000000
+      internalID: -6108513427241900910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_15
+      name: 80s 1_11
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 64
+        x: 107
+        y: 322
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,20 +438,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c86fee0af3b4d5f0800000000000000
-      internalID: -732762952780781371
+      spriteID: 5021e9fbd858405f0800000000000000
+      internalID: -791360790658674171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_16
+      name: 80s 1_12
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 64
+        x: 214
+        y: 322
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -537,20 +459,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b21d2554592c68c30800000000000000
-      internalID: 4361387235523875115
+      spriteID: ba7a2af6d7673da30800000000000000
+      internalID: 4238861955401689003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_17
+      name: 80s 1_13
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 64
+        x: 321
+        y: 322
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,20 +480,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53425b743071a5b50800000000000000
-      internalID: 6582599108210795573
+      spriteID: 0570c31d60dca9400800000000000000
+      internalID: 331802951729022800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_18
+      name: 80s 1_14
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 64
+        x: 428
+        y: 322
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -579,20 +501,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4632d3dbebb034ee0800000000000000
-      internalID: -1278164955396496540
+      spriteID: 088dbf31c15057d70800000000000000
+      internalID: 9040137445168633984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_19
+      name: 80s 1_15
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 64
+        x: 0
+        y: 215
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,20 +522,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aed2d081e3c979c0800000000000000
-      internalID: -3928893826607685976
+      spriteID: 61dec9ce6d63771c0800000000000000
+      internalID: -4506072605440283370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_20
+      name: 80s 1_16
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 64
+        x: 107
+        y: 215
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,20 +543,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5067a756077b5b040800000000000000
-      internalID: 4662834682578761221
+      spriteID: e8334aef9f0f4ffc0800000000000000
+      internalID: -3461877257031371890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_21
+      name: 80s 1_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 215
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82dfdd612b5bbc0800000000000000
+      internalID: -3767909701942171433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 215
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0cc69bc69878760800000000000000
+      internalID: 7460082407822901482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 215
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f686acce45f5180800000000000000
+      internalID: -9124480944044478667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c867f42c244afc0800000000000000
+      internalID: -3484586809353663408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 107
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829d621ec81dfb00800000000000000
+      internalID: 863873976876503681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fb06cce1d6e6ac0800000000000000
+      internalID: -3860027851564597384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 107
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad3e692c696c8b0800000000000000
+      internalID: -5132248962842764554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_24
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 107
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918d0207efb3b4a0800000000000000
+      internalID: -6578703631765372519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_25
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 64
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -642,20 +732,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8825225e7ed93a920800000000000000
-      internalID: 3000415396066120328
+      spriteID: 0fba01562a0e14430800000000000000
+      internalID: 3765537751543360496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_22
+      name: 80s 1_26
       rect:
         serializedVersion: 2
-        x: 32
+        x: 107
         y: 0
-        width: 32
-        height: 64
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -663,20 +753,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5874901ae62530e80800000000000000
-      internalID: -8213630660292032635
+      spriteID: db850d181351b2bf0800000000000000
+      internalID: -348161243815585603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade_23
+      name: 80s 1_27
       rect:
         serializedVersion: 2
-        x: 64
+        x: 214
         y: 0
-        width: 32
-        height: 64
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -684,8 +774,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c0b835935998f700800000000000000
-      internalID: 574377536754593986
+      spriteID: ce95dac681f0dcf60800000000000000
+      internalID: 8056111906012617196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e6c7f943eda110800000000000000
+      internalID: 1273924176444842344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80s 1_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2fb557937acdf50800000000000000
+      internalID: 6907579793703432955
       vertices: []
       indices: 
       edges: []
