@@ -37,8 +37,26 @@ public class TimeMachine : MonoBehaviour
 
     public void TimeTravel(int value)
     {
+        GameObject.Find("Player").gameObject.GetComponent<Movement>().SaveLocationPlayer();
         print("Traveling...");
-        SceneManager.LoadScene(value);
+        GameManager.scene = value + 1;
+        if(value == 3)
+        {
+            if (!GameManager.story1)
+            {
+                GameManager.scene = 4;
+                SceneManager.LoadScene("Prehistoria_1");
+            }
+            else
+            {
+                GameManager.scene = 9;
+                SceneManager.LoadScene("Prehistoria_2");
+            }
+        }
+        else
+        {
+            SceneManager.LoadScene(value);
+        }
     }
 
     public void Apps(int value)

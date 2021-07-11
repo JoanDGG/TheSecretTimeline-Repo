@@ -52,6 +52,7 @@ public class MoveTime : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            Instructions = GameObject.Find("Instructions").GetComponent<Text>();
             Near = true;
             Instructions.text = "Press z to rewind time\nPress c to fastforward time";
             gameObject.transform.GetChild(0).gameObject.SetActive(true);
