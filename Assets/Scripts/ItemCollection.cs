@@ -47,11 +47,12 @@ public class ItemCollection : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D other)
     {
+        instruction = GameObject.Find("Instructions").GetComponent<Text>();
         if (other.gameObject.tag == "Item")
         {
             Item = other.gameObject;
             NearItem = true;
-            instruction.text = "Press e to pick up item";
+            instruction.text += "\nPress e to pick up item";
         }
     }
 
