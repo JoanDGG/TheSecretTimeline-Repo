@@ -21,6 +21,9 @@ public class NPCItem : MonoBehaviour
             if (gameObject.name == "Dumbnald") {
                 gameObject.transform.GetChild(0).gameObject.SetActive(true);
             }
+            if (gameObject.name == "Soldier") {
+                gameObject.transform.GetChild(0).gameObject.SetActive(false);
+            }
             
             Destroy(other.gameObject);
         }
