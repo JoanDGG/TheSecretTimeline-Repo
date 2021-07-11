@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Prehistoria_2.unity
     guid: 117c1d6e0ba5a43ba82548b31938ce5f
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: bb57076e0448d4694abab7c9e8a607c4
   m_configObjects: {}
