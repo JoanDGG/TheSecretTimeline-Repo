@@ -15,6 +15,13 @@ public class NPCItem : MonoBehaviour
         {
             FindObjectOfType<DialogueManager>().StartDialogue(dialogueAccept);
             FindObjectOfType<DialogueManager>().DisplayNextSentence();
+            if (gameObject.name == "Kevin") {
+                gameObject.transform.GetChild(0).gameObject.SetActive(true);
+            }
+            if (gameObject.name == "Dumbnald") {
+                gameObject.transform.GetChild(0).gameObject.SetActive(true);
+            }
+            
             Destroy(other.gameObject);
         }
         else if (other.gameObject.tag != "Player")
