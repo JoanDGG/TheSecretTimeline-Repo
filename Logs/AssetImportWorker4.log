@@ -82,3 +82,60 @@ Received Import Request.
 Start importing Assets/Prefabs/HUDInventory.prefab using Guid(6cd62284b4748c045bfa6c3e4c3191ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a888cacedad8ce4eee537db45936a0ae') in 0.173816 seconds
   Import took 0.233997 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 10.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.411 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.2 MB.
+System memory in use after: 126.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3407.
+Total: 4.576700 ms (FindLiveObjects: 0.391000 ms CreateObjectMapping: 0.220100 ms MarkObjects: 3.807100 ms  DeleteObjects: 0.156700 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.3 MB.
+System memory in use after: 69.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3407.
+Total: 3.692300 ms (FindLiveObjects: 0.330300 ms CreateObjectMapping: 0.199400 ms MarkObjects: 3.017000 ms  DeleteObjects: 0.144000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 253.405982 seconds.
+  path: Assets/Prefabs/HUDInventory.prefab
+  artifactKey: Guid(6cd62284b4748c045bfa6c3e4c3191ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/HUDInventory.prefab using Guid(6cd62284b4748c045bfa6c3e4c3191ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45232ecfdc411f74a0eed9edf63b33d3') in 0.076089 seconds
+  Import took 0.162439 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 242.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.8 MB.
+System memory in use after: 69.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3407.
+Total: 4.062600 ms (FindLiveObjects: 0.511900 ms CreateObjectMapping: 0.169700 ms MarkObjects: 3.191800 ms  DeleteObjects: 0.187700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
